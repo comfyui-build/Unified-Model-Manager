@@ -1,0 +1,10 @@
+[
+    {
+        "type":"file",
+        "sha256":"cc236278d28c8c3eccb8e21ee0a67ebed7dd6e9ce40aa9de914fa34e8282f191",
+        "name":"sd3_medium.safetensors",
+        "comfyui-path":"models/checkpoints/sd3",
+        "sdwebui-path":"models/Stable-diffusion/sd3",
+        "downloads":[]
+    }
+]
