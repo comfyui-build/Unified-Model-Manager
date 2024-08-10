@@ -1,0 +1,32 @@
+[
+    {
+        "type":"huggingface-repo",
+        "repo":"ViperYX/BiRefNet",
+        "comfyui-path":"models/BiRefNet"
+    },
+    {
+        "type":"huggingface-repo",
+        "repo":"yisol/IDM-VTON",
+        "comfyui-path":"models/IDM-VTON"
+    },
+    {
+        "type":"huggingface-repo",
+        "repo":"briaai/RMBG-1.4",
+        "comfyui-path":"models/RMBG-1.4"
+    },
+    {
+        "type":"huggingface-repo",
+        "repo":"fal/AuraSR",
+        "comfyui-path":"models/AuraSR"
+    },
+    {
+        "type":"huggingface-repo",
+        "repo":"fal/AuraSR-v2",
+        "comfyui-path":"models/AuraSR-v2"
+    },
+    {
+        "type":"huggingface-repo",
+        "repo":"google-bert/bert-base-uncased",
+        "comfyui-path":"models/bert-base-uncased"
+    }
+]
