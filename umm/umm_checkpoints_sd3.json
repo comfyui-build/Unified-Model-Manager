@@ -1,10 +1,30 @@
 [
     {
-        "type":"file",
-        "sha256":"cc236278d28c8c3eccb8e21ee0a67ebed7dd6e9ce40aa9de914fa34e8282f191",
+        "type":"checkpoint",
+        "md5":"9f7ddfc2e6954c1f2972a4feb91565b4",
+        "category":"sd3",
         "name":"sd3_medium.safetensors",
-        "comfyui-path":"models/checkpoints/sd3",
-        "sdwebui-path":"models/Stable-diffusion/sd3",
+        "downloads":[]
+    },
+    {
+        "type":"checkpoint",
+        "md5":"90d7ea3c83e070a345f1606b5f7890f3",
+        "category":"sd3",
+        "name":"sd3_medium_incl_clips.safetensors",
+        "downloads":[]
+    },
+    {
+        "type":"checkpoint",
+        "md5":"d3b81fe84c1e3de1b708300da6896365",
+        "category":"sd3",
+        "name":"sd3_medium_incl_clips_t5xxlfp8.safetensors",
+        "downloads":[]
+    },
+    {
+        "type":"checkpoint",
+        "md5":"2c4ba76a8f036bb3015c846f05e975fb",
+        "category":"sd3",
+        "name":"sd3_medium_incl_clips_t5xxlfp16.safetensors",
         "downloads":[]
     }
 ]
