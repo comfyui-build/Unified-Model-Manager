@@ -1,0 +1,11 @@
+{
+    "repo":"https://github.com/deforum-art/sd-webui-deforum.git",
+    "commnet":"",
+    "links":[
+        {
+            "type":"file",
+            "umm_src":"repos/ZJYang/AniPortrait/film_net_fp16.pt",
+            "sdwebui_dst":"models/Deforum/film_interpolation/film_net_fp1.pt"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "type":"file",
+        "file":"TencentARC/GFPGAN/GFPGANv1.4.pth",
+        "md5":"94d735072630ab734561130a47bc44f8",
+        "comfyui-path":[],
+        "sdwebui-path":["models/GFPGAN/GFPGANv1.4.pth"],
+        "downloads":["https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth"]
+    }
+]

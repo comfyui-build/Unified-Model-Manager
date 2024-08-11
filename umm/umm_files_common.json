@@ -39,5 +39,21 @@
         "comfyui-path":["models/depthanything/depth_anything_v2_vits.pth"],
         "sdwebui-path":[],
         "downloads":["https://huggingface.co/depth-anything/Depth-Anything-V2-Small/resolve/main/depth_anything_v2_vits.pth"]
+    },
+    {
+        "type":"file",
+        "file":"common/ViT-L-14.pt",
+        "md5":"096db1af569b284eb76b3881534822d9",
+        "comfyui-path":[],
+        "sdwebui-path":["models/karlo/ViT-L-14.pt"],
+        "downloads":["https://arena.kakaocdn.net/brainrepo/models/karlo-public/v1.0.0.alpha/096db1af569b284eb76b3881534822d9/ViT-L-14.pt"]
+    },
+    {
+        "type":"file",
+        "file":"common/ViT-L-14_stats.th",
+        "md5":"0b62380a75e56f073e2844ab5199153d",
+        "comfyui-path":[],
+        "sdwebui-path":["models/karlo/ViT-L-14_stats.th"],
+        "downloads":["https://arena.kakaocdn.net/brainrepo/models/karlo-public/v1.0.0.alpha/0b62380a75e56f073e2844ab5199153d/ViT-L-14_stats.th"]
     }
 ]

@@ -4,7 +4,10 @@
         "file":"deepinsight/insightface/inswapper_128.onnx",
         "md5":"a3a155b90354160350efd66fed6b3d80",
         "comfyui-path":[],
-        "sdwebui-path":["models/faceswaplab/inswapper_128.onnx"],
+        "sdwebui-path":[
+            "models/faceswaplab/inswapper_128.onnx",
+            "models/insightface/inswapper_128.onnx",
+            "models/roop/inswapper_128.onnx"],
         "downloads":[]
     },
     {

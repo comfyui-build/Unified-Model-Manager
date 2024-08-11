@@ -1,0 +1,11 @@
+{
+    "repo":"https://github.com/deforum-art/sd-webui-deforum.git",
+    "commnet":"",
+    "links":[
+        {
+            "type":"file",
+            "umm_src":"files/deepinsight/insightface/inswapper_128.onnx",
+            "sdwebui_dst":"models/faceswaplab/inswapper_128.onnx"
+        }
+    ]
+}
