@@ -1,0 +1,34 @@
+[
+    {
+        "type":"file",
+        "file":"IDEA-Research/GroundingDINO/groundingdino_swinb_cogcoor.pth",
+        "md5":"611367df01ee834e3baa408f54d31f02",
+        "comfyui-path":["models/grounding-dino/groundingdino_swinb_cogcoor.pth"],
+        "sdwebui-path":[],
+        "downloads":["https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha2/groundingdino_swinb_cogcoor.pth"]
+    },
+    {
+        "type":"file",
+        "file":"IDEA-Research/GroundingDINO/groundingdino_swint_ogc.pth",
+        "md5":"075ebfa7242d913f38cb051fe1a128a2",
+        "comfyui-path":["models/grounding-dino/groundingdino_swint_ogc.pth"],
+        "sdwebui-path":[],
+        "downloads":["https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth"]
+    },
+    {
+        "type":"file",
+        "file":"IDEA-Research/GroundingDINO/GroundingDINO_SwinB.cfg.py",
+        "md5":"30cd120e2e46feb3050a99c4e745d813",
+        "comfyui-path":["models/grounding-dino/GroundingDINO_SwinB.cfg.py"],
+        "sdwebui-path":[],
+        "downloads":[""]
+    },
+    {
+        "type":"file",
+        "file":"IDEA-Research/GroundingDINO/GroundingDINO_SwinT_OGC.cfg.py",
+        "md5":"bdb07fc17b611d622633d133d2cf873a",
+        "comfyui-path":["models/grounding-dino/GroundingDINO_SwinT_OGC.cfg.py"],
+        "sdwebui-path":[],
+        "downloads":[""]
+    }
+]

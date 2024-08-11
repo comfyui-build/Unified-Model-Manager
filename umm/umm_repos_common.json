@@ -46,5 +46,11 @@
         "repo":"Kijai/LivePortrait_safetensors",
         "comfyui-path":["models/liveportrait"],
         "git-clone":"https://huggingface.co/Kijai/LivePortrait_safetensors"
+    },
+    {
+        "type":"repo",
+        "repo":"ZJYang/AniPortrait",
+        "comfyui-path":[],
+        "git-clone":"https://huggingface.co/ZJYang/AniPortrait"
     }
 ]
