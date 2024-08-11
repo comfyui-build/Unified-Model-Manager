@@ -1,0 +1,34 @@
+[
+    {
+        "type":"file",
+        "file":"sczhou/CodeFormer/codeformer.pth",
+        "md5":"30f8a1c9ae8600a5245b3d6bbe7ea475",
+        "comfyui-path":[],
+        "sdwebui-path":["models/Codeformer/codeformer.pth"],
+        "downloads":["https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer.pth"]
+    },
+    {
+        "type":"file",
+        "file":"sczhou/CodeFormer/codeformer_colorization.pth",
+        "md5":"c9b50d2f44b6f6c6fc6732f0170a776d",
+        "comfyui-path":[],
+        "sdwebui-path":["models/Codeformer/codeformer_colorization.pth"],
+        "downloads":["https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer_colorization.pth"]
+    },
+    {
+        "type":"file",
+        "file":"sczhou/CodeFormer/codeformer_inpainting.pth",
+        "md5":"253cbf53da0873ddd7f3b665ad6feb23",
+        "comfyui-path":[],
+        "sdwebui-path":["models/Codeformer/codeformer_inpainting.pth"],
+        "downloads":["https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer_inpainting.pth"]
+    },
+    {
+        "type":"file",
+        "file":"sczhou/CodeFormer/codeformer_stage2.pth",
+        "md5":"141e923f1b02dae32a2f1de898662490",
+        "comfyui-path":[],
+        "sdwebui-path":["models/Codeformer/codeformer_stage2.pth"],
+        "downloads":["https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer_stage2.pth"]
+    }
+]

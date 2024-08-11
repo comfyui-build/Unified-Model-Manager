@@ -1,0 +1,43 @@
+
+[
+    {
+        "type":"file",
+        "file":"common/deepbump256.onnx",
+        "md5":"9c9a320c566f28f38db59f4c9729ae88",
+        "comfyui-path":["models/deepbump/deepbump256.onnx"],
+        "sdwebui-path":[],
+        "downloads":["https://github.com/HugoTini/DeepBump/raw/master/deepbump256.onnx"]
+    },
+    {
+        "type":"file",
+        "file":"common/depth_anything_v2_vitl_fp16.safetensors",
+        "md5":"4fdba33144b7dc9baa97af9109b621cb",
+        "comfyui-path":["models/depthanything/depth_anything_v2_vitl_fp16.safetensors"],
+        "sdwebui-path":[],
+        "downloads":[]
+    },
+    {
+        "type":"file",
+        "file":"common/depth_anything_v2_vits_fp16.safetensors",
+        "md5":"052ef8e08988106d21244f0ae412e71e",
+        "comfyui-path":["models/depthanything/depth_anything_v2_vits_fp16.safetensors"],
+        "sdwebui-path":[],
+        "downloads":[]
+    },
+    {
+        "type":"file",
+        "file":"common/depth_anything_v2_vitl.pth",
+        "md5":"dc74e37c9c50323d2e79c6b171929b21",
+        "comfyui-path":["models/depthanything/depth_anything_v2_vitl.pth"],
+        "sdwebui-path":[],
+        "downloads":["https://huggingface.co/depth-anything/Depth-Anything-V2-Large/resolve/main/depth_anything_v2_vitl.pth"]
+    },
+    {
+        "type":"file",
+        "file":"common/depth_anything_v2_vits.pth",
+        "md5":"c0c52839dba75245aabbdff04f51395e",
+        "comfyui-path":["models/depthanything/depth_anything_v2_vits.pth"],
+        "sdwebui-path":[],
+        "downloads":["https://huggingface.co/depth-anything/Depth-Anything-V2-Small/resolve/main/depth_anything_v2_vits.pth"]
+    }
+]
