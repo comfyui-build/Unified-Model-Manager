@@ -1,0 +1,98 @@
+[
+    {
+        "cache": "Bingsu/adetailer/deepfashion2_yolov8s-seg.pt",
+        "sha256": "6a707d8a3beb4ea0ce5e01e1baaa86c3a3c50ee1eff453ec4ee81a75d00994e0",
+        "size": 23852385,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/deepfashion2_yolov8s-seg.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/deepfashion2_yolov8s-seg.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/face_yolov8m.pt",
+        "sha256": "f02b8a23e6f12bd2c1b1f6714f66f984c728fa41ed749d033e7d6dea511ef70c",
+        "size": 52026019,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/face_yolov8m.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8m.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/face_yolov8n.pt",
+        "sha256": "00f65de68e220f21e15ad0e24efdfbb37dd89e6acbfd4e63452989eb0605bed8",
+        "size": 6230075,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/face_yolov8n.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8n.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/face_yolov8n_v2.pt",
+        "sha256": "a1494cc31c9e8baf49f19277f456f4056f5fc770887aa394887472bf1a49386c",
+        "size": 6239036,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/face_yolov8n_v2.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8n_v2.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/face_yolov8s.pt",
+        "sha256": "6789a544b6747b6e6c099b01adfe118ff5ab93ecebda4d15f513ee91fc05c8ae",
+        "size": 22507771,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/face_yolov8s.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8s.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/face_yolov9c.pt",
+        "sha256": "89576f24718413e4ed57d63e24aacedc7401ba0fe0514a84bb05a91dc6e4bc51",
+        "size": 51590267,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/face_yolov9c.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov9c.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/hand_yolov8n.pt",
+        "sha256": "f3f23b865741cc8373a76dfac31a71ffd71356a480ca43266f294815b608e174",
+        "size": 6237883,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/hand_yolov8n.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/hand_yolov8n.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/hand_yolov8s.pt",
+        "sha256": "5c4faf8d17286ace2c3d3346c6d0d4a0c8d62404955263a7ae95c1dd7eb877af",
+        "size": 22507707,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/hand_yolov8s.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/hand_yolov8s.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/hand_yolov9c.pt",
+        "sha256": "5f66006c1af7bccbb6a9d2d1b680ba7e9eb5f79ea35c7b56e0ccde18e3371bf6",
+        "size": 51575995,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/hand_yolov9c.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/hand_yolov9c.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/person_yolov8m-seg.pt",
+        "sha256": "9d881ec50b831f546e37977081b18f4e3bf65664aec163f97a311b0955499795",
+        "size": 54827683,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/person_yolov8m-seg.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/person_yolov8m-seg.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/person_yolov8n-seg.pt",
+        "sha256": "029e36039b533e26a4b380af78957eb4fb85bc417b1df0a189af0483b7f40fa7",
+        "size": 6777003,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/person_yolov8n-seg.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/person_yolov8n-seg.pt"
+    },
+    {
+        "cache": "Bingsu/adetailer/person_yolov8s-seg.pt",
+        "sha256": "b5684835e79fd8b805459e0f7a0f9daa437e421cb4a214fff45ec4ac61767ef9",
+        "size": 23850795,
+        "comfyui_path": "",
+        "sdwebui_path": "models/adetailer/person_yolov8s-seg.pt",
+        "download": "https://huggingface.co/Bingsu/adetailer/resolve/main/person_yolov8s-seg.pt"
+    }
+]

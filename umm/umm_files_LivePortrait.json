@@ -1,0 +1,98 @@
+[
+    {
+        "cache": "Kijai/LivePortrait_safetensors/appearance_feature_extractor.safetensors",
+        "sha256": "38bef5de50a92bf1fc66e8c511051a19dfacdf80c37f8713425ec15dc9ca7d34",
+        "size": 3361936,
+        "comfyui_path": "models/liveportrait/appearance_feature_extractor.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/appearance_feature_extractor.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/landmark_model.pth",
+        "sha256": "48ba55140fda4c292d3faf3e3ed9106784c7c32aebf170d4983fb67cd0a3c9c8",
+        "size": 114910599,
+        "comfyui_path": "models/liveportrait/landmark_model.pth",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/landmark_model.pth"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/landmark.onnx",
+        "sha256": "31d22a5041326c31f19b78886939a634a5aedcaa5ab8b9b951a1167595d147db",
+        "size": 114666491,
+        "comfyui_path": "models/liveportrait/landmark.onnx",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/landmark.onnx"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/motion_extractor.safetensors",
+        "sha256": "3568cd410e29d046771acb55ecfdfe4c7c197d345bd8b7f95942ef63130b6c9e",
+        "size": 112496256,
+        "comfyui_path": "models/liveportrait/motion_extractor.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/motion_extractor.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/spade_generator.safetensors",
+        "sha256": "ca04fbec765745e9eae836d2d7522c274647b277ce5f25104fa1705b75222212",
+        "size": 221771768,
+        "comfyui_path": "models/liveportrait/spade_generator.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/spade_generator.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/stitching_retargeting_module.safetensors",
+        "sha256": "60725cf3523ae413880da28ed583c9e84c5c25695a0cef1b77210ea31cc424ea",
+        "size": 911836,
+        "comfyui_path": "models/liveportrait/stitching_retargeting_module.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/stitching_retargeting_module.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/warping_module.safetensors",
+        "sha256": "f7b7834bd6039b4088f72e5161e60ad366f68a3763df8a3eac0bc0f9d46fdbbf",
+        "size": 182158564,
+        "comfyui_path": "models/liveportrait/warping_module.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/warping_module.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/animal/appearance_feature_extractor.safetensors",
+        "sha256": "9a5a293107696b5e7e290ec7c28a79ef7b69f0f552bd4e289ac5e13e33fe4e79",
+        "size": 3361936,
+        "comfyui_path": "models/liveportrait/animal/appearance_feature_extractor.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/animal/appearance_feature_extractor.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/animal/motion_extractor.safetensors",
+        "sha256": "75f4a9b07931477ba062d6d1cbe3f3d0d2ee00f506194e48b5a50a4f272377ea",
+        "size": 112496256,
+        "comfyui_path": "models/liveportrait/animal/motion_extractor.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/animal/motion_extractor.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/animal/spade_generator.safetensors",
+        "sha256": "9912309eca37b4f564f23420c68a1aca0fcc3b56c709879ab4502b4c4809c14d",
+        "size": 221771768,
+        "comfyui_path": "models/liveportrait/animal/spade_generator.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/animal/spade_generator.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/animal/stitching_retargeting_module.safetensors",
+        "sha256": "60725cf3523ae413880da28ed583c9e84c5c25695a0cef1b77210ea31cc424ea",
+        "size": 911836,
+        "comfyui_path": "models/liveportrait/animal/stitching_retargeting_module.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/animal/stitching_retargeting_module.safetensors"
+    },
+    {
+        "cache": "Kijai/LivePortrait_safetensors/animal/warping_module.safetensors",
+        "sha256": "ef336c9175cecfcada453ddc9a21a9f93eef5b0ec1b4e2929962ee03a842e01f",
+        "size": 182158564,
+        "comfyui_path": "models/liveportrait/animal/warping_module.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/Kijai/LivePortrait_safetensors/resolve/main/animal/warping_module.safetensors"
+    }
+]
