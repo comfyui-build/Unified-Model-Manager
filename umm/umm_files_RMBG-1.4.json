@@ -1,0 +1,58 @@
+[
+    {
+        "cache": "briaai/RMBG-1.4/config.json",
+        "sha256": "d774e7d35151efb2479a83f132a57048334adf722e6e354309e30c56e3b35fbe",
+        "size": 548,
+        "comfyui_path": "models/RMBG-1.4/config.json",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/config.json"
+    },
+    {
+        "cache": "briaai/RMBG-1.4/model.pth",
+        "sha256": "893c16c340b1ddafc93e78457a4d94190da9b7179149f8574284c83caebf5e8c",
+        "size": 176718373,
+        "comfyui_path": "models/RMBG-1.4/model.pth",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/model.pth"
+    },
+    {
+        "cache": "briaai/RMBG-1.4/model.safetensors",
+        "sha256": "46ef7fe46f2ae284d8f1aaa24bfa5fca5ef25a34e2c7caa890a0029eb100e87f",
+        "size": 176381984,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/model.safetensors"
+    },
+    {
+        "cache": "briaai/RMBG-1.4/onnx/model.onnx",
+        "sha256": "8cafcf770b06757c4eaced21b1a88e57fd2b66de01b8045f35f01535ba742e0f",
+        "size": 176153355,
+        "comfyui_path": "models/RMBG-1.4/onnx/model.onnx",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/onnx/model.onnx"
+    },
+    {
+        "cache": "briaai/RMBG-1.4/onnx/model_fp16.onnx",
+        "sha256": "9fdfdb41866d872e0acf4a010c35c1a8547bf0eebe0d1544406bbf1c824cb59d",
+        "size": 88217533,
+        "comfyui_path": "models/RMBG-1.4/onnx/model_fp16.onnx",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/onnx/model_fp16.onnx"
+    },
+    {
+        "cache": "briaai/RMBG-1.4/onnx/model_quantized.onnx",
+        "sha256": "a6648479275dfd0ede0f3a8abc20aa5c437b394681b05e5af6d268250aaf40f3",
+        "size": 44403226,
+        "comfyui_path": "models/RMBG-1.4/onnx/model_quantized.onnx",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/onnx/model_quantized.onnx"
+    },
+    {
+        "cache": "briaai/RMBG-1.4/onnx/quantize_config.json",
+        "sha256": "ef73b4d68d23d1f1c3e02bf3b69a956f0370f7acd12430250f8c465880577a8d",
+        "size": 527,
+        "comfyui_path": "models/RMBG-1.4/onnx/quantize_config.json",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/briaai/RMBG-1.4/resolve/main/onnx/quantize_config.json"
+    }
+]

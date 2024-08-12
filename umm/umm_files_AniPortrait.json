@@ -1,0 +1,58 @@
+[
+    {
+        "cache": "ZJYang/AniPortrait/audio2mesh.pt",
+        "sha256": "04996bebdad780a33642b0046036dae5d3c6db76e8f4ef5860e551fb9a1f0a1a",
+        "size": 382031763,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/ZJYang/AniPortrait/resolve/main/audio2mesh.pt"
+    },
+    {
+        "cache": "ZJYang/AniPortrait/audio2pose.pt",
+        "sha256": "e61ffd104f8d1fe40476de1a8df9050559315976c830e5fdead1c31d1c5661f3",
+        "size": 481586148,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/ZJYang/AniPortrait/resolve/main/audio2pose.pt"
+    },
+    {
+        "cache": "ZJYang/AniPortrait/denoising_unet.pth",
+        "sha256": "ddc4990e0d33dd5393190e8609fd7b32bfc0b5c386763624a3bff8038e0c054c",
+        "size": 3438374981,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/ZJYang/AniPortrait/resolve/main/denoising_unet.pth"
+    },
+    {
+        "cache": "ZJYang/AniPortrait/film_net_fp16.pt",
+        "sha256": "f0c8314674a6ba97787584fb04d59df9c6051ad5b735c89704f60801eece34d1",
+        "size": 69032330,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/ZJYang/AniPortrait/resolve/main/film_net_fp16.pt"
+    },
+    {
+        "cache": "ZJYang/AniPortrait/motion_module.pth",
+        "sha256": "954aee616a81f143e0316d210445d1933cca05a397c760661b7046738c4c1f06",
+        "size": 1817900817,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/ZJYang/AniPortrait/resolve/main/motion_module.pth"
+    },
+    {
+        "cache": "ZJYang/AniPortrait/pose_guider.pth",
+        "sha256": "b6e8a6c72efcbb4ed49421baeb2c218b6047e94f5f0c90b554748019f757e64f",
+        "size": 670182863,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/ZJYang/AniPortrait/resolve/main/pose_guider.pth"
+    },
+    {
+        "cache": "ZJYang/AniPortrait/reference_unet.pth",
+        "sha256": "2e3603f7d44917ca3330a4a4be81b9578b308e9b9e3398fd6b8a1c4c86c474bd",
+        "size": 3438324501,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/ZJYang/AniPortrait/resolve/main/reference_unet.pth"
+    }
+]

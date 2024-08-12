@@ -1,0 +1,8 @@
+[
+    {
+        "type": "dir",
+        "cache": "yisol/IDM-VTON",
+        "comfyui_path": "models/IDM-VTON",
+        "git_clone": "https://huggingface.co/yisol/IDM-VTON"
+    }
+]

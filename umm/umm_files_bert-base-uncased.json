@@ -1,0 +1,26 @@
+[
+    {
+        "cache": "google-bert/bert-base-uncased/config.json",
+        "sha256": "7160e1553ad2ca51d8c1cb066be533db31826e12d173824c1bb0cb1a4f187d20",
+        "size": 570,
+        "comfyui_path": "models/bert-base-uncased/config.json",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/config.json"
+    },
+    {
+        "cache": "google-bert/bert-base-uncased/model.onnx",
+        "sha256": "44d7a2896d341c51fb1eba89aea3a590e6af0ce33e25481136f7eeecb62e5f7f",
+        "size": 532091246,
+        "comfyui_path": "models/bert-base-uncased/model.onnx",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/model.onnx"
+    },
+    {
+        "cache": "google-bert/bert-base-uncased/model.safetensors",
+        "sha256": "68d45e234eb4a928074dfd868cead0219ab85354cc53d20e772753c6bb9169d3",
+        "size": 440449768,
+        "comfyui_path": "models/bert-base-uncased/model.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/google-bert/bert-base-uncased/resolve/main/model.safetensors"
+    }
+]
