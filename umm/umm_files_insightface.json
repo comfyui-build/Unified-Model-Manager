@@ -1,141 +1,138 @@
 [
     {
-        "type":"file",
-        "file":"deepinsight/insightface/inswapper_128.onnx",
-        "md5":"a3a155b90354160350efd66fed6b3d80",
-        "comfyui-path":[],
-        "sdwebui-path":[
-            "models/faceswaplab/inswapper_128.onnx",
-            "models/insightface/inswapper_128.onnx",
-            "models/roop/inswapper_128.onnx"],
-        "downloads":[]
+        "cache": "deepinsight/insightface/inswapper_128.onnx",
+        "sha256": "e4a3f08c753cb72d04e10aa0f7dbe3deebbf39567d4ead6dce08e98aa49e16af",
+        "size": 554253681,
+        "comfyui-path": "",
+        "sdwebui-path": "models/insightface/inswapper_128.onnx",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/inswapper_128_fp16.onnx",
-        "md5":"080d72117cea72776c471a4dca0b0ff3",
-        "comfyui-path":[],
-        "sdwebui-path":["models/faceswaplab/inswapper_128_fp16.onnx"],
-        "downloads":[]
+        "cache": "deepinsight/insightface/inswapper_128_fp16.onnx",
+        "sha256": "6d51a9278a1f650cffefc18ba53f38bf2769bf4bbff89267822cf72945f8a38b",
+        "size": 277680638,
+        "comfyui-path": "",
+        "sdwebui-path": "models/insightface/inswapper_128_fp16.onnx",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/antelopev2/1k3d68.onnx",
-        "md5":"6fb94fcdb0055e3638bf9158e6a108f4",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/antelopev2/1k3d68.onnx",
+        "sha256": "df5c06b8a0c12e422b2ed8947b8869faa4105387f199c477af038aa01f9a45cc",
+        "size": 143607619,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/antelopev2/2d106det.onnx",
-        "md5":"a3613ef9eb3662b4ef88eb90db1fcf26",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/antelopev2/2d106det.onnx",
+        "sha256": "f001b856447c413801ef5c42091ed0cd516fcd21f2d6b79635b1e733a7109dbf",
+        "size": 5030888,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/antelopev2/genderage.onnx",
-        "md5":"81c77ba87ab38163b0dec6b26f8e2af2",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/antelopev2/genderage.onnx",
+        "sha256": "4fde69b1c810857b88c64a335084f1c3fe8f01246c9a191b48c7bb756d6652fb",
+        "size": 1322532,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/antelopev2/glintr100.onnx",
-        "md5":"3b366b98f786426f79629ddb2e56629c",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/antelopev2/glintr100.onnx",
+        "sha256": "4ab1d6435d639628a6f3e5008dd4f929edf4c4124b1a7169e1048f9fef534cdf",
+        "size": 260665334,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/antelopev2/scrfd_10g_bnkps.onnx",
-        "md5":"4c10eef5c9e168357a16fdd580fa8371",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/antelopev2/scrfd_10g_bnkps.onnx",
+        "sha256": "5838f7fe053675b1c7a08b633df49e7af5495cee0493c7dcf6697200b85b5b91",
+        "size": 16923827,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_l/1k3d68.onnx",
-        "md5":"6fb94fcdb0055e3638bf9158e6a108f4",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_l/1k3d68.onnx",
+        "sha256": "df5c06b8a0c12e422b2ed8947b8869faa4105387f199c477af038aa01f9a45cc",
+        "size": 143607619,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_l/2d106det.onnx",
-        "md5":"a3613ef9eb3662b4ef88eb90db1fcf26",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_l/2d106det.onnx",
+        "sha256": "f001b856447c413801ef5c42091ed0cd516fcd21f2d6b79635b1e733a7109dbf",
+        "size": 5030888,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_l/det_10g.onnx",
-        "md5":"4c10eef5c9e168357a16fdd580fa8371",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_l/det_10g.onnx",
+        "sha256": "5838f7fe053675b1c7a08b633df49e7af5495cee0493c7dcf6697200b85b5b91",
+        "size": 16923827,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_l/genderage.onnx",
-        "md5":"81c77ba87ab38163b0dec6b26f8e2af2",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_l/genderage.onnx",
+        "sha256": "4fde69b1c810857b88c64a335084f1c3fe8f01246c9a191b48c7bb756d6652fb",
+        "size": 1322532,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_l/w600k_r50.onnx",
-        "md5":"80248d427976241cbd1343889ed132b3",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_l/w600k_r50.onnx",
+        "sha256": "4c06341c33c2ca1f86781dab0e829f88ad5b64be9fba56e56bc9ebdefc619e43",
+        "size": 174383860,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_s/1k3d68.onnx",
-        "md5":"6fb94fcdb0055e3638bf9158e6a108f4",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_s/1k3d68.onnx",
+        "sha256": "df5c06b8a0c12e422b2ed8947b8869faa4105387f199c477af038aa01f9a45cc",
+        "size": 143607619,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_s/2d106det.onnx",
-        "md5":"a3613ef9eb3662b4ef88eb90db1fcf26",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_s/2d106det.onnx",
+        "sha256": "f001b856447c413801ef5c42091ed0cd516fcd21f2d6b79635b1e733a7109dbf",
+        "size": 5030888,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_s/det_500m.onnx",
-        "md5":"51dc6ebafbd47fcd25b27b6e136062c8",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_s/det_500m.onnx",
+        "sha256": "5e4447f50245bbd7966bd6c0fa52938c61474a04ec7def48753668a9d8b4ea3a",
+        "size": 2524817,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_s/genderage.onnx",
-        "md5":"81c77ba87ab38163b0dec6b26f8e2af2",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_s/genderage.onnx",
+        "sha256": "4fde69b1c810857b88c64a335084f1c3fe8f01246c9a191b48c7bb756d6652fb",
+        "size": 1322532,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     },
     {
-        "type":"file",
-        "file":"deepinsight/insightface/buffalo_s/w600k_mbf.onnx",
-        "md5":"c5b029527cb6f874e057613fc10bae1b",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":[]
+        "cache": "deepinsight/insightface/buffalo_s/w600k_mbf.onnx",
+        "sha256": "9cc6e4a75f0e2bf0b1aed94578f144d15175f357bdc05e815e5c4a02b319eb4f",
+        "size": 13616099,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": ""
     }
 ]
