@@ -5,8 +5,8 @@
         "description": "",
         "sha256": "9b4510f31d72e41507a4b75c4e62206b1d7e2223e0125b29644acd4b142793b0",
         "size": 848968257,
-        "comfyui-path": "models/BiRefNet/BiRefNet-DIS_ep580.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/BiRefNet/BiRefNet-DIS_ep580.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/BiRefNet-DIS_ep580.pth"
     },
     {
@@ -15,8 +15,8 @@
         "description": "",
         "sha256": "367a738b27e0556e703991e8160fe6b5217bec6c158a72a890d131dd11ba74f6",
         "size": 848968257,
-        "comfyui-path": "models/BiRefNet/BiRefNet-ep480.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/BiRefNet/BiRefNet-ep480.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/BiRefNet-ep480.pth"
     },
     {
@@ -25,8 +25,8 @@
         "description": "",
         "sha256": "80711cd1b37ffba12bec6c7a2a7c54efe2315ed635e6d2055fd51c3e909ede4d",
         "size": 101501299,
-        "comfyui-path": "models/BiRefNet/pvt_v2_b2.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/BiRefNet/pvt_v2_b2.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/pvt_v2_b2.pth"
     },
     {
@@ -35,8 +35,8 @@
         "description": "",
         "sha256": "d5c381730c305a9b9d411c2ec9768fb40e922298ecdb4bfe0a606ccd12af0225",
         "size": 327985673,
-        "comfyui-path": "models/BiRefNet/pvt_v2_b5.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/BiRefNet/pvt_v2_b5.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/pvt_v2_b5.pth"
     },
     {
@@ -45,8 +45,8 @@
         "description": "",
         "sha256": "0f6f7d28cb1ddf43af5583163310b29cb3805a32044f226025352494702c606e",
         "size": 365361851,
-        "comfyui-path": "models/BiRefNet/swin_base_patch4_window12_384_22kto1k.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/BiRefNet/swin_base_patch4_window12_384_22kto1k.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/swin_base_patch4_window12_384_22kto1k.pth"
     },
     {
@@ -55,8 +55,8 @@
         "description": "",
         "sha256": "30762928cd6ee9229e24e26e200951b8fe635799b67db016ba747fa653b64db9",
         "size": 800688955,
-        "comfyui-path": "models/BiRefNet/swin_large_patch4_window12_384_22kto1k.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/BiRefNet/swin_large_patch4_window12_384_22kto1k.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/ViperYX/BiRefNet/resolve/main/swin_large_patch4_window12_384_22kto1k.pth"
     }
 ]

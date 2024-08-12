@@ -4,56 +4,56 @@
         "cache": "common/deepbump256.onnx",
         "sha256": "3a2ababc5fa652b19040a0f3d639b71826368e52ad805cf70ffb0e7c96a54d67",
         "size": 26706979,
-        "comfyui-path": "models/deepbump/deepbump256.onnx",
-        "sdwebui-path": "",
+        "comfyui_path": "models/deepbump/deepbump256.onnx",
+        "sdwebui_path": "",
         "download": "https://github.com/HugoTini/DeepBump/raw/master/deepbump256.onnx"
     },
     {
         "cache": "common/depth_anything_v2_vitl_fp16.safetensors",
         "sha256": "f075a9099f94bae54a5bfe21a1423346429309bae40abb85b9935985b1f35a09",
         "size": 670674810,
-        "comfyui-path": "models/depthanything/depth_anything_v2_vitl_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/depthanything/depth_anything_v2_vitl_fp16.safetensors",
+        "sdwebui_path": "",
         "download": ""
     },
     {
         "cache": "common/depth_anything_v2_vits_fp16.safetensors",
         "sha256": "a7c1a8c8cdd7885fb8391069cd1eee789126c8d896f7de6750499b1097f817ea",
         "size": 49595202,
-        "comfyui-path": "models/depthanything/depth_anything_v2_vits_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/depthanything/depth_anything_v2_vits_fp16.safetensors",
+        "sdwebui_path": "",
         "download": ""
     },
     {
         "cache": "common/depth_anything_v2_vitl.pth",
         "sha256": "a7ea19fa0ed99244e67b624c72b8580b7e9553043245905be58796a608eb9345",
         "size": 1341395338,
-        "comfyui-path": "models/depthanything/depth_anything_v2_vitl.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/depthanything/depth_anything_v2_vitl.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/depth-anything/Depth-Anything-V2-Large/resolve/main/depth_anything_v2_vitl.pth"
     },
     {
         "cache": "common/depth_anything_v2_vits.pth",
         "sha256": "715fade13be8f229f8a70cc02066f656f2423a59effd0579197bbf57860e1378",
         "size": 99218434,
-        "comfyui-path": "models/depthanything/depth_anything_v2_vits.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/depthanything/depth_anything_v2_vits.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/depth-anything/Depth-Anything-V2-Small/resolve/main/depth_anything_v2_vits.pth"
     },
     {
         "cache": "common/ViT-L-14.pt",
         "sha256": "b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836",
         "size": 932768134,
-        "comfyui-path": "",
-        "sdwebui-path": "models/karlo/ViT-L-14.pt",
+        "comfyui_path": "",
+        "sdwebui_path": "models/karlo/ViT-L-14.pt",
         "download": "https://arena.kakaocdn.net/brainrepo/models/karlo-public/v1.0.0.alpha/096db1af569b284eb76b3881534822d9/ViT-L-14.pt"
     },
     {
         "cache": "common/ViT-L-14_stats.th",
         "sha256": "37113fd962c56652f7052c3182b922b958b7efc4be5072d3049cbbe1bdb0af79",
         "size": 7079,
-        "comfyui-path": "",
-        "sdwebui-path": "models/karlo/ViT-L-14_stats.th",
+        "comfyui_path": "",
+        "sdwebui_path": "models/karlo/ViT-L-14_stats.th",
         "download": "https://arena.kakaocdn.net/brainrepo/models/karlo-public/v1.0.0.alpha/0b62380a75e56f073e2844ab5199153d/ViT-L-14_stats.th"
     }
 ]
