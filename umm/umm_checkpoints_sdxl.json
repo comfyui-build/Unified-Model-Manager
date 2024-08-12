@@ -12,5 +12,12 @@
         "sha256": "1718b5bb2da1ef4815fee8af8a7fc2fa8ab8f467b279eded4d991ea0cce59a6d",
         "name": "albedobaseXL_v21.safetensors",
         "downloads": []
+    },
+    {
+        "type": "checkpoint",
+        "base": "SDXL",
+        "sha256": "585cdb4c12610382c54642f23495324e1651c3aeaf24f0334e1e78fd54cc69be",
+        "name": "amalgamationxl_v2XLightning2.safetensors",
+        "downloads": []
     }
 ]
