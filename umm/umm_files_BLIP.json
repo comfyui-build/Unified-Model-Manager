@@ -1,18 +1,18 @@
 [
     {
-        "type":"file",
-        "file":"salesforce/BLIP/model_base_capfilt_large.pth",
-        "md5":"dd40ed17486a858be6b2e085caba57a8",
-        "comfyui-path":[],
-        "sdwebui-path":["models/BLIP/model_base_capfilt_large.pth"],
-        "downloads":["https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_capfilt_large.pth"]
+        "cache": "salesforce/BLIP/model_base_capfilt_large.pth",
+        "sha256": "8f5187458d4d47bb87876faf3038d5947eff17475edf52cf47b62e84da0b235f",
+        "size": 2115792294,
+        "comfyui-path": "",
+        "sdwebui-path": "models/BLIP/model_base_capfilt_large.pth",
+        "download": "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_capfilt_large.pth"
     },
     {
-        "type":"file",
-        "file":"salesforce/BLIP/model_large_retrieval_coco.pth",
-        "md5":"321c8677fe62af86021aee058490a52b",
-        "comfyui-path":[],
-        "sdwebui-path":["models/BLIP/model_large_retrieval_coco.pth"],
-        "downloads":["https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_large_retrieval_coco.pth"]
+        "cache": "salesforce/BLIP/model_large_retrieval_coco.pth",
+        "sha256": "18e10e32c7a152f087afbb72ee6ddc817ca18e10641607b9fb72e20f9b4a5f63",
+        "size": 3687945348,
+        "comfyui-path": "",
+        "sdwebui-path": "models/BLIP/model_large_retrieval_coco.pth",
+        "download": "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_large_retrieval_coco.pth"
     }
 ]

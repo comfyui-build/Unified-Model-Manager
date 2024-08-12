@@ -1,66 +1,66 @@
 [
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taef1_decoder.pth",
-        "md5":"d235585b27f9373fe43337f20a02d2bc",
-        "comfyui-path":["models/vae_approx/taef1_decoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taef1_decoder.pth"]
+        "cache": "madebyollin/taesd/taef1_decoder.pth",
+        "sha256": "62d60e37f101275766846b035c6adfd0a9331b8d934f05a131efb3aad39c8608",
+        "size": 293143,
+        "comfyui-path": "models/vae_approx/taef1_decoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taef1_decoder.pth"
     },
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taef1_encoder.pth",
-        "md5":"b723655bbe60a7aee2ba9bcaf0936300",
-        "comfyui-path":["models/vae_approx/taef1_encoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taef1_encoder.pth"]
+        "cache": "madebyollin/taesd/taef1_encoder.pth",
+        "sha256": "9669e239553ae382f31d6e300e355068db27f33342f7fddedff126e07e8f861c",
+        "size": 293143,
+        "comfyui-path": "models/vae_approx/taef1_encoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taef1_encoder.pth"
     },
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taesd3_decoder.pth",
-        "md5":"ba46fa64a3087220c68603c75f810b97",
-        "comfyui-path":["models/vae_approx/taesd3_decoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taesd3_decoder.pth"]
+        "cache": "madebyollin/taesd/taesd3_decoder.pth",
+        "sha256": "a503b79110e22e145373a8013fdca9ab931aa15db63327b0483b12fc122b9de8",
+        "size": 293174,
+        "comfyui-path": "models/vae_approx/taesd3_decoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taesd3_decoder.pth"
     },
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taesd3_encoder.pth",
-        "md5":"158f207f658a3aa9736e315da7096a2e",
-        "comfyui-path":["models/vae_approx/taesd3_encoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taesd3_encoder.pth"]
+        "cache": "madebyollin/taesd/taesd3_encoder.pth",
+        "sha256": "9647f7476c8282f0312579aeb8cbb0427fa85447c7b32729e90b16dc9c3fac70",
+        "size": 293180,
+        "comfyui-path": "models/vae_approx/taesd3_encoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taesd3_encoder.pth"
     },
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taesd_decoder.pth",
-        "md5":"af084f1f21454aef5987728802f662a2",
-        "comfyui-path":["models/vae_approx/taesd_decoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taesd_decoder.pth"]
+        "cache": "madebyollin/taesd/taesd_decoder.pth",
+        "sha256": "923391f1f42790252c0c7eafb200d2f06c01ca1ca5d00ec8dc889c0165c9fb4a",
+        "size": 293143,
+        "comfyui-path": "models/vae_approx/taesd_decoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taesd_decoder.pth"
     },
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taesd_encoder.pth",
-        "md5":"5e1a2e065419e41325eb77da65b37b6d",
-        "comfyui-path":["models/vae_approx/taesd_encoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taesd_encoder.pth"]
+        "cache": "madebyollin/taesd/taesd_encoder.pth",
+        "sha256": "85900dd6164674779b1122830eb72afffb9e3e7f800dd06e48cb8cf5bb91189b",
+        "size": 293144,
+        "comfyui-path": "models/vae_approx/taesd_encoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taesd_encoder.pth"
     },
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taesdxl_decoder.pth",
-        "md5":"b6f94b578d218b9e2a3562265efec19f",
-        "comfyui-path":["models/vae_approx/taesdxl_decoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taesdxl_decoder.pth"]
+        "cache": "madebyollin/taesd/taesdxl_decoder.pth",
+        "sha256": "98c40642bbc4a67621b7ab2d0ac1894ee27187dd8c2d4c34de51ed815da92a3b",
+        "size": 293205,
+        "comfyui-path": "models/vae_approx/taesdxl_decoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taesdxl_decoder.pth"
     },
     {
-        "type":"file",
-        "file":"madebyollin/taesd/taesdxl_encoder.pth",
-        "md5":"813f53d6e40e47f6c99ad3ca82a03a74",
-        "comfyui-path":["models/vae_approx/taesdxl_encoder.pth"],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/madebyollin/taesd/blob/main/taesdxl_encoder.pth"]
+        "cache": "madebyollin/taesd/taesdxl_encoder.pth",
+        "sha256": "45a3be767241fa02d3a9754bab3dd9a35ebb86ef17160b7de09280218980bff0",
+        "size": 293205,
+        "comfyui-path": "models/vae_approx/taesdxl_encoder.pth",
+        "sdwebui-path": "",
+        "download": "https://github.com/madebyollin/taesd/blob/main/taesdxl_encoder.pth"
     }
 ]
