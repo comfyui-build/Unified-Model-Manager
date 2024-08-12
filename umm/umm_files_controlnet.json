@@ -5,8 +5,8 @@
         "description": "多合一",
         "sha256": "a9e13fd61f3193887791c8a0dd07a07202174dc47d5ddaea94ea1344f07c7467",
         "size": null,
-        "comfyui-path": "models/controlnet/union/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/union/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -15,8 +15,8 @@
         "description": "多合一v2",
         "sha256": "9fae2e50cb431bfcbe05822b59ec2228df545ef27f711dea8949e9f4ed9f7cdc",
         "size": null,
-        "comfyui-path": "models/controlnet-union-sdxl-1.0/diffusion_pytorch_model_promax.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet-union-sdxl-1.0/diffusion_pytorch_model_promax.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model_promax.safetensors"
     },
     {
@@ -25,8 +25,8 @@
         "description": "",
         "sha256": "080efeb6105af58bb6e5b7703f46b55712126ac9fe9ccdf9639f8439d4b51fb5",
         "size": null,
-        "comfyui-path": "models/controlnet/qr-pattern-v2/diffusion_pytorch_model.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/qr-pattern-v2/diffusion_pytorch_model.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/Nacholmo/controlnet-qr-pattern-v2/resolve/main/diffusion_pytorch_model.bin"
     },
     {
@@ -35,8 +35,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/qr-pattern-v2/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/qr-pattern-v2/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/Nacholmo/controlnet-qr-pattern-v2/resolve/main/config.json"
     },
     {
@@ -45,8 +45,8 @@
         "description": "",
         "sha256": "a84d5d1e691d8d00da44551f5ff92540c2bcf72bb282403d1d3271154fdc2b91",
         "size": null,
-        "comfyui-path": "models/controlnet/qr-pattern/diffusion_pytorch_model.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/qr-pattern/diffusion_pytorch_model.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/Nacholmo/controlnet-qr-pattern/resolve/main/diffusion_pytorch_model.bin"
     },
     {
@@ -55,8 +55,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/qr-pattern/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/qr-pattern/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/Nacholmo/controlnet-qr-pattern/resolve/main/config.json"
     },
     {
@@ -65,8 +65,8 @@
         "description": "",
         "sha256": "0bf3133b3405671c1a7013cce75586325f4b9f7c03e833c266ce11fafff69f9a",
         "size": null,
-        "comfyui-path": "models/controlnet/qr-pattern-sdxl-ControlNet-LLLite/controllllite_v01256512e_sdxl_qrpattern.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/qr-pattern-sdxl-ControlNet-LLLite/controllllite_v01256512e_sdxl_qrpattern.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/Nacholmo/qr-pattern-sdxl-ControlNet-LLLite/resolve/main/controllllite_v01256512e_sdxl_qrpattern.safetensors"
     },
     {
@@ -75,8 +75,8 @@
         "description": "",
         "sha256": "10f8985748ce2fbb38e83a7fe603809c9c8f94ba0c9d42b3c6a6e88467623f0a",
         "size": null,
-        "comfyui-path": "models/controlnet/qr-pattern-sdxl/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/qr-pattern-sdxl/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/Nacholmo/controlnet-qr-pattern-sdxl/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -85,8 +85,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/qr-pattern-sdxl/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/qr-pattern-sdxl/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/Nacholmo/controlnet-qr-pattern-sdxl/resolve/main/config.json"
     },
     {
@@ -95,8 +95,8 @@
         "description": "",
         "sha256": "231ce6b2760538a3fb77b7cdc40983d460a91a95ab526f920b08f5e750748d9c",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_canny_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_canny_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_canny_fp16.safetensors"
     },
     {
@@ -105,8 +105,8 @@
         "description": "",
         "sha256": "8b00f19f3f400e3791081ba35c1c615e975d88f5338e7f1bbe09e06465dabc00",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_depth_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_depth_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_depth_fp16.safetensors"
     },
     {
@@ -115,8 +115,8 @@
         "description": "",
         "sha256": "b0d250e550cedad78abf96431bb298f23573c6739b57b93475390a5529b85e52",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_hed_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_hed_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_hed_fp16.safetensors"
     },
     {
@@ -125,8 +125,8 @@
         "description": "",
         "sha256": "948fe030361fad35b974e4d112b0ac94df41d7ab61d7847ad7e7b9a98648cf25",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_mlsd_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_mlsd_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_mlsd_fp16.safetensors"
     },
     {
@@ -135,8 +135,8 @@
         "description": "",
         "sha256": "1007949f163820f5ba324fd78b674fd04423c62ac6b8db1e896b7bf0ab24422c",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_normal_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_normal_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_normal_fp16.safetensors"
     },
     {
@@ -145,8 +145,8 @@
         "description": "",
         "sha256": "ac1d356292486bbb8d88c67b1099a2b254008b7213149cd874f9506dff81d8da",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_openpose_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_openpose_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_openpose_fp16.safetensors"
     },
     {
@@ -155,8 +155,8 @@
         "description": "",
         "sha256": "b8be265a72b739f809e461adf985051c925c21e9e22e86987a1519191916fc8d",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_scribble_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_scribble_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_scribble_fp16.safetensors"
     },
     {
@@ -165,8 +165,8 @@
         "description": "",
         "sha256": "2471479e29acd24f426ab4aa9cc1598d98d261c3621c91ac70042cdab6cded85",
         "size": null,
-        "comfyui-path": "models/controlnet/diff_control_sd15_seg_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/diff_control_sd15_seg_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/ControlNet-diff-modules/resolve/main/diff_control_sd15_seg_fp16.safetensors"
     },
     {
@@ -175,8 +175,8 @@
         "description": "",
         "sha256": "884dd509a0f835d21fcbac8d531a30a6894db275458bc079f8637847c4edbdda",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01016032e_sdxl_blur_anime_beta.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01016032e_sdxl_blur_anime_beta.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01016032e_sdxl_blur_anime_beta.safetensors"
     },
     {
@@ -185,8 +185,8 @@
         "description": "",
         "sha256": "c1045601f957a4de3c6eaa7dc5e81298ab23bc97f06f5c86378c4b2e57f5698b",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01032064e_sdxl_blur-500-1000.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01032064e_sdxl_blur-500-1000.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01032064e_sdxl_blur-500-1000.safetensors"
     },
     {
@@ -195,8 +195,8 @@
         "description": "",
         "sha256": "faab90360a89e6531f275e38b7f11407146cdd9c59450e3974b6a44eceb64f83",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01016032e_sdxl_replicate_anime_0-500.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01016032e_sdxl_replicate_anime_0-500.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01016032e_sdxl_replicate_anime_0-500.safetensors"
     },
     {
@@ -205,8 +205,8 @@
         "description": "",
         "sha256": "6ac9be7cd6ea7b857cd62604ebcc7acc625bf9feb6e78ce387a9dba6dc78fa3c",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01032064e_sdxl_replicate_anime_v2.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01032064e_sdxl_replicate_anime_v2.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01032064e_sdxl_replicate_anime_v2.safetensors"
     },
     {
@@ -215,8 +215,8 @@
         "description": "",
         "sha256": "bf1f331d833cccd51ee1b4945d7419f2be2b41a9fac4bc6241ef200a5f124bd5",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01032064e_sdxl_pose_anime.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01032064e_sdxl_pose_anime.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01032064e_sdxl_pose_anime.safetensors"
     },
     {
@@ -225,8 +225,8 @@
         "description": "",
         "sha256": "23bf4691bf2e2c09131ec92cb2fe0119a31432fd74789b60c654de87f5f304be",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01032064e_sdxl_pose_anime_v2_500-1000.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01032064e_sdxl_pose_anime_v2_500-1000.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01032064e_sdxl_pose_anime_v2_500-1000.safetensors"
     },
     {
@@ -235,8 +235,8 @@
         "description": "",
         "sha256": "1a6a778cf727b635350228cac8348919a7b6dad695285a953327f045fe7ebf2f",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01032064e_sdxl_fake_scribble_anime.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01032064e_sdxl_fake_scribble_anime.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01032064e_sdxl_fake_scribble_anime.safetensors"
     },
     {
@@ -245,8 +245,8 @@
         "description": "",
         "sha256": "0ca8e7b93e3c952cde5fcef46a3a86ed5e08bafd2389b8e8285c702bdec3ed20",
         "size": null,
-        "comfyui-path": "models/controlnet/controllllite_v01008016e_sdxl_depth_anime.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controllllite_v01008016e_sdxl_depth_anime.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01008016e_sdxl_depth_anime.safetensors"
     },
     {
@@ -255,8 +255,8 @@
         "description": "",
         "sha256": "fa2a5f2fec814819c835403c778be2c2437d147931921304569fccec2b45173c",
         "size": null,
-        "comfyui-path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v1_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v1_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic/resolve/main/TTPLANET_Controlnet_Tile_realistic_v1_fp16.safetensors"
     },
     {
@@ -265,8 +265,8 @@
         "description": "",
         "sha256": "f33012cbac5839885f143aa2accb2e403414c7dad119364bbe18de37e4a65f67",
         "size": null,
-        "comfyui-path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v1_fp32.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v1_fp32.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic/resolve/main/TTPLANET_Controlnet_Tile_realistic_v1_fp32.safetensors"
     },
     {
@@ -275,8 +275,8 @@
         "description": "",
         "sha256": "3d7db14f6b82c981f506be138774f6d9324dd2087a193e79682b4856ec90a622",
         "size": null,
-        "comfyui-path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v1_fp32.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v1_fp32.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic/resolve/main/TTPLANET_Controlnet_Tile_realistic_v2_fp16.safetensors"
     },
     {
@@ -285,8 +285,8 @@
         "description": "",
         "sha256": "093d5b1c50055e57f85ee7dbf0104e6e8ae7f9dd589a6502c413146b516c6fcb",
         "size": null,
-        "comfyui-path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v2_rank256.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/TTPLANET_Controlnet_Tile_realistic_v2_rank256.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic/resolve/main/TTPLANET_Controlnet_Tile_realistic_v2_rank256.safetensors"
     },
     {
@@ -295,8 +295,8 @@
         "description": "",
         "sha256": "b3e4ac47bc814019d50dc842f579301440deb6d8f09ee1b91a30f527ace1b852",
         "size": null,
-        "comfyui-path": "models/controlnet/scribble-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/scribble-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -305,8 +305,8 @@
         "description": "",
         "sha256": "bf47cd757ceaf2572c53321329ef819ea38c09a6e3783588387913cd94dff47c",
         "size": null,
-        "comfyui-path": "models/controlnet/canny-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/canny-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -315,8 +315,8 @@
         "description": "",
         "sha256": "b3e4ac47bc814019d50dc842f579301440deb6d8f09ee1b91a30f527ace1b852",
         "size": null,
-        "comfyui-path": "models/controlnet/canny-sdxl-1.0/diffusion_pytorch_model_V2.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/canny-sdxl-1.0/diffusion_pytorch_model_V2.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model_V2.safetensors"
     },
     {
@@ -325,8 +325,8 @@
         "description": "",
         "sha256": "9f23ba7be22bf8796c12565e00ea4b287acac982cdf384d368a8b18b6990e011",
         "size": null,
-        "comfyui-path": "models/controlnet/tile-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/tile-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-tile-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -335,8 +335,8 @@
         "description": "",
         "sha256": "b8524e557a7df60d081f5d4a0eb109967d107df217943bf88c2d99b9ebcc06c5",
         "size": null,
-        "comfyui-path": "models/controlnet/openpose-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/openpose-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -345,8 +345,8 @@
         "description": "",
         "sha256": "54a2afb1bd21349e475566e5428884bc937a4caecf863b29dea08acc40612fa4",
         "size": null,
-        "comfyui-path": "models/controlnet/openpose-sdxl-1.0/diffusion_pytorch_model_twins.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/openpose-sdxl-1.0/diffusion_pytorch_model_twins.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0/resolve/main/diffusion_pytorch_model_twins.safetensors"
     },
     {
@@ -355,8 +355,8 @@
         "description": "",
         "sha256": "1df519349f3f2b6a3c6ff23127dd9b98a78e1f50628cf4037a5a9527c08b767c",
         "size": null,
-        "comfyui-path": "models/controlnet/mistoLine_fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/mistoLine_fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TheMistoAI/MistoLine/resolve/main/mistoLine_fp16.safetensors"
     },
     {
@@ -365,8 +365,8 @@
         "description": "",
         "sha256": "6c46c871a49bf9e74114f0e1f87d818426203fd62847e78043e4ce2d40834d53",
         "size": null,
-        "comfyui-path": "models/controlnet/mistoLine_rank256.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/mistoLine_rank256.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TheMistoAI/MistoLine/resolve/main/mistoLine_rank256.safetensors"
     },
     {
@@ -375,8 +375,8 @@
         "description": "",
         "sha256": "3001eac46314e0db897c611e8879bdae8ea813a2b36a9dad5de3e1df997b071d",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_canny.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_canny.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_canny.safetensors"
     },
     {
@@ -385,8 +385,8 @@
         "description": "",
         "sha256": "34d8f1130ab125edbc882cec3b43720381495cea266c35bc3cddbf00a36ad908",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_depth.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_depth.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_depth.safetensors"
     },
     {
@@ -395,8 +395,8 @@
         "description": "",
         "sha256": "23a1893a12048f7c6d47bba860fad039bf1f3f08487148194d8a39efc597291c",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_depth_V2.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_depth_V2.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_depth_V2.safetensors"
     },
     {
@@ -405,8 +405,8 @@
         "description": "",
         "sha256": "24b24f4eefba695c41507cdd99906aea4b4ff250edf879b2d3ed624a44f09a18",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_dw_openpose.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_dw_openpose.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_dw_openpose.safetensors"
     },
     {
@@ -415,8 +415,8 @@
         "description": "",
         "sha256": "311e142ab5602b172d76c1d84abb7f664b5c19d9cc7e840ee5668096d513e071",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_lineart_anime_denoise.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_lineart_anime_denoise.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_lineart_anime_denoise.safetensors"
     },
     {
@@ -425,8 +425,8 @@
         "description": "",
         "sha256": "f69079bfacbc0ad50c0761d9690013f04dbd2ef2db9ad90421a57ce1496ed790",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_mlsd_V2.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_mlsd_V2.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_mlsd_V2.safetensors"
     },
     {
@@ -435,8 +435,8 @@
         "description": "",
         "sha256": "2d132ef6d94ef29ddd53cdd9a839d6305351da998a0d01140250ce78dba93de6",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_normal.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_normal.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_normal.safetensors"
     },
     {
@@ -445,8 +445,8 @@
         "description": "",
         "sha256": "a3789309154f2da2e34b26dcac411cddd049b1e627df1478777362fc298a78bc",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_normal_dsine.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_normal_dsine.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_normal_dsine.safetensors"
     },
     {
@@ -455,8 +455,8 @@
         "description": "",
         "sha256": "bbf7b55c2f8bd6675488385366ee8b723fd1bd13400ac14053633ce0fb8b946f",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_recolor_luminance.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_recolor_luminance.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_recolor_luminance.safetensors"
     },
     {
@@ -465,8 +465,8 @@
         "description": "",
         "sha256": "723cff0dbf1647e466e4049f06b4a09900b7e81d5a6c45e6c4783e6147de1857",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_segment_animeface.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_segment_animeface.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_segment_animeface.safetensors"
     },
     {
@@ -475,8 +475,8 @@
         "description": "",
         "sha256": "f43b32c4aa737c9b51d5e6e46af0a3400308c5b1e577d06f9d4e98fe83e58b7c",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_segment_animeface_V2.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_segment_animeface_V2.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_segment_animeface_V2.safetensors"
     },
     {
@@ -485,8 +485,8 @@
         "description": "",
         "sha256": "77fb929f5ec7385a6d0ce82640c562b570ecf44afeab02431415ce8fe5755d13",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_sketch.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_sketch.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_sketch.safetensors"
     },
     {
@@ -495,8 +495,8 @@
         "description": "",
         "sha256": "454a229c8c696a412034c6f6adc0adb6d34e35786aaead3f6989de0d73f51218",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_softedge.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_softedge.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_softedge.safetensors"
     },
     {
@@ -505,8 +505,8 @@
         "description": "",
         "sha256": "0e9743484525821527d1860d25ff94f9302722f11a1f406d6e0cb3bc1c8b80f5",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_t2i-adapter_color_shuffle.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_t2i-adapter_color_shuffle.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_t2i-adapter_color_shuffle.safetensors"
     },
     {
@@ -515,8 +515,8 @@
         "description": "",
         "sha256": "9be94289916a1f51dc316b1d69e5cd6667825e1a748b26954bd74ffce3c3d010",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_tile_anime_alpha.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_tile_anime_alpha.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_tile_anime_alpha.safetensors"
     },
     {
@@ -525,8 +525,8 @@
         "description": "",
         "sha256": "13d5f7e3a7d7140efffbaec314b42f4f66e63fd2315dccb2c33fe86df9bf537c",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_tile_anime_beta.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_tile_anime_beta.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_tile_anime_beta.safetensors"
     },
     {
@@ -535,8 +535,8 @@
         "description": "",
         "sha256": "c4a8618082a69b968af726aab4c2e9314409e3b813637f5d442e4c96c4a86f78",
         "size": null,
-        "comfyui-path": "models/controlnet/bdsqlsz_controlllite_xl_tile_realistic.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/bdsqlsz_controlllite_xl_tile_realistic.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/resolve/main/bdsqlsz_controlllite_xl_tile_realistic.safetensors"
     },
     {
@@ -545,8 +545,8 @@
         "description": "",
         "sha256": "96c2a509b3eb1b2083b5384bbc30808dc205f370c513ee930e644edc0ea4688d",
         "size": null,
-        "comfyui-path": "models/controlnet/Annotators/UNet.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/Annotators/UNet.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/qinglong_controlnet-lllite/blob/main/Annotators/UNet.pth"
     },
     {
@@ -555,8 +555,8 @@
         "description": "",
         "sha256": "65c13c04dc49231f7044373e3f0dbd2f44b01a445c8577ea919cd5ff5fac29a6",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_openpose/diffusion_pytorch_model.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_openpose/diffusion_pytorch_model.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/control_v11p_sd15_openpose/resolve/main/diffusion_pytorch_model.bin"
     },
     {
@@ -565,8 +565,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_openpose/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_openpose/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/bdsqlsz/control_v11p_sd15_openpose/resolve/main/config.json"
     },
     {
@@ -575,8 +575,8 @@
         "description": "",
         "sha256": "66a6813e6bd7270ecfe68206a59ddd605a011ae85321188376605c66e0a4f303",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -585,8 +585,8 @@
         "description": "",
         "sha256": "b760b1ed26970c7c60abbcef08e7238bb9428bee510a405aff239e06a1471945",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -595,8 +595,8 @@
         "description": "",
         "sha256": "15d4d3dd9f7c8dca5fad38f16b0fa18c71ca83008359a47919689680b8b844fe",
         "size": null,
-        "comfyui-path": "models/controlnet/canny-sdxl-1.0-mid/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/canny-sdxl-1.0-mid/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-mid/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -605,8 +605,8 @@
         "description": "",
         "sha256": "5b204159b430458045412807de55d52bfaeb7b55af8781072e4bda2060b5a703",
         "size": null,
-        "comfyui-path": "models/controlnet/canny-sdxl-1.0-mid/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/canny-sdxl-1.0-mid/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-mid/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -615,8 +615,8 @@
         "description": "",
         "sha256": "fde4888a5f0a5648118991cc50e0ac4d60a2356dbaddf5e0649dd69c1119a2f9",
         "size": null,
-        "comfyui-path": "models/controlnet/canny-sdxl-1.0-small/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/canny-sdxl-1.0-small/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-small/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -625,8 +625,8 @@
         "description": "",
         "sha256": "97b75ce51fae5cfc4d5ea98445292d482d911b241b9a82fd8260dbaa2269031a",
         "size": null,
-        "comfyui-path": "models/controlnet/canny-sdxl-1.0-small/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/canny-sdxl-1.0-small/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-small/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -635,8 +635,8 @@
         "description": "",
         "sha256": "b760b1ed26970c7c60abbcef08e7238bb9428bee510a405aff239e06a1471945",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -645,8 +645,8 @@
         "description": "",
         "sha256": "66a6813e6bd7270ecfe68206a59ddd605a011ae85321188376605c66e0a4f303",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -655,8 +655,8 @@
         "description": "",
         "sha256": "6cd9dad0c25b90a548f2598b575505884d9b535ad17f3e13b8a1701554200ecd",
         "size": null,
-        "comfyui-path": "models/controlnet/zoe-depth-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/zoe-depth-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-zoe-depth-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -665,8 +665,8 @@
         "description": "",
         "sha256": "2a307290a7735208bcd98e0964f5a616b5100139f230895c9482b388bf03e568",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0-mid/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0-mid/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0-mid/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -675,8 +675,8 @@
         "description": "",
         "sha256": "d95d546d7189bf2750ef0fc728d187563b09789501c8194507479d68374f075b",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0-mid/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0-mid/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0-mid/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -685,8 +685,8 @@
         "description": "",
         "sha256": "6f23c58fd632f52238a7b35ebdc02f9f596fd13dbaa121f9b37b9f4689c2b1e9",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0-small/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0-small/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0-small/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -695,8 +695,8 @@
         "description": "",
         "sha256": "a8e62b40b28f8a444a778c9d4afd11183778cec03916afe07a959d0601053b85",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-sdxl-1.0-small/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-sdxl-1.0-small/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0-small/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -705,8 +705,8 @@
         "description": "",
         "sha256": "441c403dba87219a5128a99c1a46d785fdf561bf05ed65569604682414492219",
         "size": null,
-        "comfyui-path": "models/controlnet/controlnet-sd-xl-1.0-softedge-dexined.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controlnet-sd-xl-1.0-softedge-dexined.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/SargeZT/controlnet-sd-xl-1.0-softedge-dexined/resolve/main/controlnet-sd-xl-1.0-softedge-dexined.safetensors"
     },
     {
@@ -715,8 +715,8 @@
         "description": "",
         "sha256": "d845de25bed0f105415c4e7d92113e42fbefb5b1b793a3428901727d1f0b00a9",
         "size": null,
-        "comfyui-path": "models/controlnet/depth-zoe-xl-v1.0-controlnet.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/depth-zoe-xl-v1.0-controlnet.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/SargeZT/controlnet-sd-xl-1.0-depth-16bit-zoe/resolve/main/depth-zoe-xl-v1.0-controlnet.safetensors"
     },
     {
@@ -725,8 +725,8 @@
         "description": "",
         "sha256": "5a4b928cb1e93748217900cb66d4135bf70d932d2924232f925910fad9e43a92",
         "size": null,
-        "comfyui-path": "models/controlnet/OpenPoseXL2.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/OpenPoseXL2.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/resolve/main/OpenPoseXL2.safetensors"
     },
     {
@@ -735,8 +735,8 @@
         "description": "",
         "sha256": "2c8f6b9a77386c54dcdbf55b6c917108c4bdf4328abca9152c7bce5727b74d18",
         "size": null,
-        "comfyui-path": "models/controlnet/anime-seg/isnetis.ckpt",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/anime-seg/isnetis.ckpt",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/skytnt/anime-seg/resolve/main/isnetis.ckpt"
     },
     {
@@ -745,8 +745,8 @@
         "description": "",
         "sha256": "4f7260daa498ce8d4b4679f0692ef2f1f426e39121a907181eab37b8b0585878",
         "size": null,
-        "comfyui-path": "models/controlnet/densepose_r50_fpn_dl.torchscript",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/densepose_r50_fpn_dl.torchscript",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/LayerNorm/DensePose-TorchScript-with-hint-image/blob/main/densepose_r50_fpn_dl.torchscript"
     },
     {
@@ -755,8 +755,8 @@
         "description": "",
         "sha256": "a8d77429b111b25ffad4adb4c686a19c73c905d638dd8acb1e0b1d1da300192c",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11e_sd15_ip2p.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11e_sd15_ip2p.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth"
     },
     {
@@ -765,8 +765,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11e_sd15_ip2p.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11e_sd15_ip2p.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.yaml"
     },
     {
@@ -775,8 +775,8 @@
         "description": "",
         "sha256": "657f632c35176c467e71c471b55b1a0e94ae1a49d739e1b705624f454e638e1d",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11e_sd15_shuffle.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11e_sd15_shuffle.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth"
     },
     {
@@ -785,8 +785,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11e_sd15_shuffle.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11e_sd15_shuffle.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.yaml"
     },
     {
@@ -795,8 +795,8 @@
         "description": "",
         "sha256": "8aa69b8d391e72c2fced6a650268137dc0ed594cafe8a2c0f8b994799a21979b",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11f1e_sd15_tile.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11f1e_sd15_tile.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth"
     },
     {
@@ -805,8 +805,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11f1e_sd15_tile.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11f1e_sd15_tile.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.yaml"
     },
     {
@@ -815,8 +815,8 @@
         "description": "",
         "sha256": "761077ffe369fe8cf16ae353f8226bd4ca29805b161052f82c0170c7b50f1d99",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11f1p_sd15_depth.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11f1p_sd15_depth.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth"
     },
     {
@@ -825,8 +825,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11f1p_sd15_depth.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11f1p_sd15_depth.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.yaml"
     },
     {
@@ -835,8 +835,8 @@
         "description": "",
         "sha256": "f99cfe4c70910e38e3fece9918a4979ed7d3dcf9b81cee293e1755363af5406a",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_canny.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_canny.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth"
     },
     {
@@ -845,8 +845,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_canny.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_canny.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.yaml"
     },
     {
@@ -855,8 +855,8 @@
         "description": "",
         "sha256": "a2a0ff91882a0fbacbded5edeca7babdb6d1bd8f770880a91c177bd44cd58633",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_inpaint.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_inpaint.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth"
     },
     {
@@ -865,8 +865,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_inpaint.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_inpaint.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.yaml"
     },
     {
@@ -875,8 +875,8 @@
         "description": "",
         "sha256": "fb5fb912696830da948e5056b50adfa3fcc68ff760c43e4e7a8499853af43c61",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_lineart.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_lineart.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth"
     },
     {
@@ -885,8 +885,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_lineart.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_lineart.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.yaml"
     },
     {
@@ -895,8 +895,8 @@
         "description": "",
         "sha256": "22dab177f4c4566ac1c8f68dc2c429b023114e15a644e8c7c0e8f956afe92acf",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_mlsd.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_mlsd.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd.pth"
     },
     {
@@ -905,8 +905,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_mlsd.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_mlsd.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd.yaml"
     },
     {
@@ -915,8 +915,8 @@
         "description": "",
         "sha256": "9608158c204261259f4b5a7815ced8f5c15e5de4e30a9403d07f68f29f81e941",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_normalbae.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_normalbae.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.pth"
     },
     {
@@ -925,8 +925,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_normalbae.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_normalbae.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.yaml"
     },
     {
@@ -935,8 +935,8 @@
         "description": "",
         "sha256": "db97becd92cd19aff71352a60e93c2508decba3dee64f01f686727b9b406a9dd",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_openpose.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_openpose.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth"
     },
     {
@@ -945,8 +945,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_openpose.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_openpose.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.yaml"
     },
     {
@@ -955,8 +955,8 @@
         "description": "",
         "sha256": "14d33e8bc14ba679595d976789e4eedc36a3d2d21866ab5896355a7e6677749f",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_scribble.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_scribble.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.pth"
     },
     {
@@ -965,8 +965,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_scribble.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_scribble.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.yaml"
     },
     {
@@ -975,8 +975,8 @@
         "description": "",
         "sha256": "bad6d753886c0edc978e79dfb06083737ab1bd9702e5b7c0f81b1e16a5ed12cc",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_seg.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_seg.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth"
     },
     {
@@ -985,8 +985,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_seg.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_seg.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.yaml"
     },
     {
@@ -995,8 +995,8 @@
         "description": "",
         "sha256": "20759ef71a109c4796e637d86eea8db492ec9772b6d5cb7a9afd077847b403f3",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_softedge.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_softedge.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.pth"
     },
     {
@@ -1005,8 +1005,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15_softedge.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15_softedge.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.yaml"
     },
     {
@@ -1015,8 +1015,8 @@
         "description": "",
         "sha256": "59169ab86e8ae15ad50208cc5832f1cc598b95391d4482ba742b344c8f7f6904",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15s2_lineart_anime.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15s2_lineart_anime.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.pth"
     },
     {
@@ -1025,8 +1025,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v11p_sd15s2_lineart_anime.yaml",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v11p_sd15s2_lineart_anime.yaml",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.yaml"
     },
     {
@@ -1035,8 +1035,8 @@
         "description": "",
         "sha256": "9b0696ebf86ab5c87ce553d87f4b62a48dba1add4ee314b6f7ee98e778145f7f",
         "size": null,
-        "comfyui-path": "models/controlnet/control_v1p_sd15_brightness/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v1p_sd15_brightness/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/latentcat/control_v1p_sd15_brightness/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -1045,8 +1045,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/control_v1p_sd15_brightness/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/control_v1p_sd15_brightness/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/latentcat/control_v1p_sd15_brightness/resolve/main/config.json"
     },
     {
@@ -1055,8 +1055,8 @@
         "description": "",
         "sha256": "5a4b928cb1e93748217900cb66d4135bf70d932d2924232f925910fad9e43a92",
         "size": null,
-        "comfyui-path": "models/controlnet/controlnet-openpose-sdxl-1.0/OpenPoseXL2.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controlnet-openpose-sdxl-1.0/OpenPoseXL2.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/resolve/main/OpenPoseXL2.safetensors"
     },
     {
@@ -1065,8 +1065,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/controlnet-openpose-sdxl-1.0/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controlnet-openpose-sdxl-1.0/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/resolve/main/config.json"
     },
     {
@@ -1075,8 +1075,8 @@
         "description": "",
         "sha256": "8afa079285bf9384eaf8f6322884cb4f24bbe405da490f91f5540d3bff585e75",
         "size": null,
-        "comfyui-path": "models/controlnet/controlnet-openpose-sdxl-1.0/control-lora-openposeXL2-rank256.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/controlnet-openpose-sdxl-1.0/control-lora-openposeXL2-rank256.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/resolve/main/control-lora-openposeXL2-rank256.safetensors"
     },
     {
@@ -1085,8 +1085,8 @@
         "description": "",
         "sha256": "252fb53e0d018489d9e7f9b9e2001a52ff700e491894011ada7cfb471e0fadf2",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-plus_sd15.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-plus_sd15.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plus_sd15.bin"
     },
     {
@@ -1095,8 +1095,8 @@
         "description": "",
         "sha256": "3f00341d11e5e7b5aadf63cbdead09ef82eb28669156161cf1bfc2105d4ff1cd",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-plus_sd15_lora.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-plus_sd15_lora.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plus_sd15_lora.safetensors"
     },
     {
@@ -1105,8 +1105,8 @@
         "description": "",
         "sha256": "26d0d86a1d60d6cc811d3b8862178b461e1eeb651e6fe2b72ba17aa95411e313",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-plusv2_sd15.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-plusv2_sd15.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15.bin"
     },
     {
@@ -1115,8 +1115,8 @@
         "description": "",
         "sha256": "8abff87a15a049f3e0186c2e82c1c8e77783baf2cfb63f34c412656052eb57b0",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-plusv2_sd15_lora.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-plusv2_sd15_lora.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15_lora.safetensors"
     },
     {
@@ -1125,8 +1125,8 @@
         "description": "",
         "sha256": "c6945d82b543700cc3ccbb98d363b837e9c596281607857c74b713a876daf5fb",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-plusv2_sdxl.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-plusv2_sdxl.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl.bin"
     },
     {
@@ -1135,8 +1135,8 @@
         "description": "",
         "sha256": "f24b4bb2dad6638a09c00f151cde84991baf374409385bcbab53c1871a30cb7b",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl_lora.safetensors"
     },
     {
@@ -1145,8 +1145,8 @@
         "description": "",
         "sha256": "a48cb4f89ed18e02c6000f65aa9efec452e87eaed4a1bc9fcf4a460c8d0e3bc6",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-portrait-v11_sd15.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-portrait-v11_sd15.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait-v11_sd15.bin"
     },
     {
@@ -1155,8 +1155,8 @@
         "description": "",
         "sha256": "68570f3c14fe125b00d4abf416af33d8b13bb496f4e55af2eb5d0a6017ee99a4",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-portrait_sd15.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-portrait_sd15.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sd15.bin"
     },
     {
@@ -1165,8 +1165,8 @@
         "description": "",
         "sha256": "5631ce7824cdafd2db37c5e85b985730a95ff59c5b4fc80c2b79b0bee5711512",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-portrait_sdxl.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-portrait_sdxl.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl.bin"
     },
     {
@@ -1175,8 +1175,8 @@
         "description": "",
         "sha256": "220bb86e205393a3d0411631cb473caddbf35fd371be2905ca9008818170db55",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid-portrait_sdxl_unnorm.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid-portrait_sdxl_unnorm.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl_unnorm.bin"
     },
     {
@@ -1185,8 +1185,8 @@
         "description": "",
         "sha256": "201344e22e6f55849cf07ca7a6e53d8c3b001327c66cb9710d69fd5da48a8da7",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid_sd15.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid_sd15.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15.bin"
     },
     {
@@ -1195,8 +1195,8 @@
         "description": "",
         "sha256": "70699f0dbfadd47de1f81d263cf4c86bd4b7271d841304af9b340b3a7f38e86a",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid_sd15_lora.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid_sd15_lora.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15_lora.safetensors"
     },
     {
@@ -1205,8 +1205,8 @@
         "description": "",
         "sha256": "f455fed24e207c878ec1e0466b34a969d37bab857c5faa4e8d259a0b4ff63d7e",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid_sdxl.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid_sdxl.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sdxl.bin"
     },
     {
@@ -1215,8 +1215,8 @@
         "description": "",
         "sha256": "70699f0dbfadd47de1f81d263cf4c86bd4b7271d841304af9b340b3a7f38e86a",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-faceid_sd15_lora.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-faceid_sd15_lora.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15_lora.safetensors"
     },
     {
@@ -1225,8 +1225,8 @@
         "description": "",
         "sha256": "f4a17fb643bf876235a45a0e87a49da2855be6584b28ca04c62a97ab5ff1c6f3",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-full-face_sd15.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-full-face_sd15.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-full-face_sd15.safetensors"
     },
     {
@@ -1235,8 +1235,8 @@
         "description": "",
         "sha256": "1c9edc21af6f737dc1d6e0e734190e976cfacf802d6b024b77aa3be922f7569b",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-plus-face_sd15.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-plus-face_sd15.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus-face_sd15.safetensors"
     },
     {
@@ -1245,8 +1245,8 @@
         "description": "",
         "sha256": "a1c250be40455cc61a43da1201ec3f1edaea71214865fb47f57927e06cbe4996",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-plus_sd15.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-plus_sd15.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors"
     },
     {
@@ -1255,8 +1255,8 @@
         "description": "",
         "sha256": "289b45f16d043d0bf542e45831f971dcdaabe18b656f11e86d9dfba7e9ee3369",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter_sd15.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter_sd15.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15.safetensors"
     },
     {
@@ -1265,8 +1265,8 @@
         "description": "",
         "sha256": "0747d08db670535bfa286452a77d93cebad5c677b46d038543f9f2de8690bb26",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter_sd15_light.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter_sd15_light.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_light.safetensors"
     },
     {
@@ -1275,8 +1275,8 @@
         "description": "",
         "sha256": "350b63a57847c163e2e984b01090f85ffe60eaae20f32b2b2c9e1ccc7ddd972b",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter_sd15_light_v11.bin",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter_sd15_light_v11.bin",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_light_v11.bin"
     },
     {
@@ -1285,8 +1285,8 @@
         "description": "",
         "sha256": "a26f736af07bb341a83dfea23713531d0575760e8ed947c68cb31a4c62d9c90b",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter_sd15_vit-G.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter_sd15_vit-G.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_vit-G.safetensors"
     },
     {
@@ -1295,8 +1295,8 @@
         "description": "",
         "sha256": "6ca9667da1ca9e0b0f75e46bb030f7e011f44f86cbfb8d5a36590fcd7507b030",
         "size": null,
-        "comfyui-path": "models/controlnet/SD15/image_encoder/model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/SD15/image_encoder/model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors"
     },
     {
@@ -1305,8 +1305,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/SD15/image_encoder/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/SD15/image_encoder/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/config.json"
     },
     {
@@ -1315,8 +1315,8 @@
         "description": "",
         "sha256": "677ad8860204f7d0bfba12d29e6c31ded9beefdf3e4bbd102518357d31a292c1",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-plus-face_sdxl_vit-h.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-plus-face_sdxl_vit-h.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus-face_sdxl_vit-h.safetensors"
     },
     {
@@ -1325,8 +1325,8 @@
         "description": "",
         "sha256": "3f5062b8400c94b7159665b21ba5c62acdcd7682262743d7f2aefedef00e6581",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter-plus_sdxl_vit-h.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter-plus_sdxl_vit-h.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.safetensors"
     },
     {
@@ -1335,8 +1335,8 @@
         "description": "",
         "sha256": "ba1002529e783604c5f326d49f0122025392d1d20ac8d573b3eeb3e6dea4ebb6",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter_sdxl.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter_sdxl.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl.safetensors"
     },
     {
@@ -1345,8 +1345,8 @@
         "description": "",
         "sha256": "ebf05d918348aec7abb02a5e9ecef77e0aaea6914a5c4ea13f50d45eb1681831",
         "size": null,
-        "comfyui-path": "models/controlnet/ip-adapter_sdxl_vit-h.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/ip-adapter_sdxl_vit-h.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl_vit-h.safetensors"
     },
     {
@@ -1355,8 +1355,8 @@
         "description": "",
         "sha256": "657723e09f46a7c3957df651601029f66b1748afb12b419816330f16ed45d64d",
         "size": null,
-        "comfyui-path": "models/controlnet/SDXL/image_encoder/model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/SDXL/image_encoder/model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors"
     },
     {
@@ -1365,8 +1365,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/SDXL/image_encoder/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/SDXL/image_encoder/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/config.json"
     },
     {
@@ -1375,8 +1375,8 @@
         "description": "",
         "sha256": "08569b1f051787913aaa51f5b80216900a66d939c807d8a9b8637436eaf3d968",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-lineart-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-lineart-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-lineart-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -1385,8 +1385,8 @@
         "description": "",
         "sha256": "c19e9e1038c7c53b238185d8dc9fad87f95aa3124d211e19f39f1165bfb7230f",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-lineart-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-lineart-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-lineart-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -1395,8 +1395,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-lineart-sdxl-1.0/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-lineart-sdxl-1.0/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-lineart-sdxl-1.0/resolve/main/config.json"
     },
     {
@@ -1405,8 +1405,8 @@
         "description": "",
         "sha256": "b601b28b7df0c0dcbbaf704ab8ba6fd22bcf35c9a875fa0c9bc933d47cc27438",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-canny-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-canny-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -1415,8 +1415,8 @@
         "description": "",
         "sha256": "e3db0d9cb3dd54c116a429a1de067d952780047944dd7dba8be032dd2e737f81",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-canny-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-canny-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -1425,8 +1425,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-canny-sdxl-1.0/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-canny-sdxl-1.0/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0/resolve/main/config.json"
     },
     {
@@ -1435,8 +1435,8 @@
         "description": "",
         "sha256": "613884bf550bf6750f2f22cdb17bb92f49a148cad01fdd952118df4d386acd55",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-depth-zoe-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-depth-zoe-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-depth-zoe-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -1445,8 +1445,8 @@
         "description": "",
         "sha256": "4c88d7ef823cc75bb44e374cc714ab34261da47ee7853d16d843586ac6e2c34d",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-depth-zoe-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-depth-zoe-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-depth-zoe-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -1455,8 +1455,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-depth-zoe-sdxl-1.0/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-depth-zoe-sdxl-1.0/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-depth-zoe-sdxl-1.0/resolve/main/config.json"
     },
     {
@@ -1465,8 +1465,8 @@
         "description": "",
         "sha256": "434f84d6e08dd2c96fe10b831941e1f0d29826d5903673e346a047df815309b6",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-depth-midas-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-depth-midas-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-depth-midas-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -1475,8 +1475,8 @@
         "description": "",
         "sha256": "00992515291c902430d78ecece8a936406338faa54fd06c26da277d96a171fa4",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-depth-midas-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-depth-midas-sdxl-1.0/diffusion_pytorch_model.fp16.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-depth-midas-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
     },
     {
@@ -1485,8 +1485,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-depth-midas-sdxl-1.0/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-depth-midas-sdxl-1.0/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-depth-midas-sdxl-1.0/resolve/main/config.json"
     },
     {
@@ -1495,8 +1495,8 @@
         "description": "",
         "sha256": "24c55f4b4f4903a50caaae7e3e11f4008bd51d24041385a5ca94e8d05be6311e",
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-openpose-sdxl-1.0/diffusion_pytorch_model.safetensors",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-openpose-sdxl-1.0/diffusion_pytorch_model.safetensors",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
     },
     {
@@ -1505,8 +1505,8 @@
         "description": "",
         "sha256": null,
         "size": null,
-        "comfyui-path": "models/controlnet/t2i-adapter-openpose-sdxl-1.0/config.json",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2i-adapter-openpose-sdxl-1.0/config.json",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0/resolve/main/config.json"
     },
     {
@@ -1515,8 +1515,8 @@
         "description": "",
         "sha256": "e1cfde9d744bfc5eb039d1244e0ab00e357c2af299ab6cf7c1c84fa7be516b56",
         "size": null,
-        "comfyui-path": "models/controlnet/coadapter-canny-sd15v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/coadapter-canny-sd15v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/coadapter-canny-sd15v1.pth"
     },
     {
@@ -1525,8 +1525,8 @@
         "description": "",
         "sha256": "808ed3707d9a8d10c5661f2aedb04cb26e6ef7ec03329a5485ba1a132e0a2abf",
         "size": null,
-        "comfyui-path": "models/controlnet/coadapter-color-sd15v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/coadapter-color-sd15v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/coadapter-color-sd15v1.pth"
     },
     {
@@ -1535,8 +1535,8 @@
         "description": "",
         "sha256": "b442c20595a0a5c9b9de49ebff29fa5287336676fa5b926beda1d3ac762ff058",
         "size": null,
-        "comfyui-path": "models/controlnet/coadapter-depth-sd15v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/coadapter-depth-sd15v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/coadapter-depth-sd15v1.pth"
     },
     {
@@ -1545,8 +1545,8 @@
         "description": "",
         "sha256": "c7ac8db971fe8ed83f79c24561bc09d9f3628d6a62a3f6eddb1388f6dbb6ce7a",
         "size": null,
-        "comfyui-path": "models/controlnet/coadapter-fuser-sd15v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/coadapter-fuser-sd15v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/coadapter-fuser-sd15v1.pth"
     },
     {
@@ -1555,8 +1555,8 @@
         "description": "",
         "sha256": "b8bb39ae315022519cc2671c196ac96db133a270bfdb8b39513582098e1968c7",
         "size": null,
-        "comfyui-path": "models/controlnet/coadapter-sketch-sd15v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/coadapter-sketch-sd15v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/coadapter-sketch-sd15v1.pth"
     },
     {
@@ -1565,8 +1565,8 @@
         "description": "",
         "sha256": "a596e6d4a0ab3a94f07f0176ddec0e6dc90308241505d1c9f119fdcbef68fc42",
         "size": null,
-        "comfyui-path": "models/controlnet/coadapter-style-sd15v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/coadapter-style-sd15v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/coadapter-style-sd15v1.pth"
     },
     {
@@ -1575,8 +1575,8 @@
         "description": "",
         "sha256": "3fb35d666889f622f7c499c5c11a8e94dabd9231029a13a5efd736364e76a987",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_canny_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_canny_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd14v1.pth"
     },
     {
@@ -1585,8 +1585,8 @@
         "description": "",
         "sha256": "a5ec162813b3997a925d39dc546ff696c42f877fec55ef2e6afa3a4aa642018e",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_canny_sd15v2.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_canny_sd15v2.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd15v2.pth"
     },
     {
@@ -1595,8 +1595,8 @@
         "description": "",
         "sha256": "3ea46a3d2f26023179a8daccb2259a198e992044570d2f9bd18e412d479fd591",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_color_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_color_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_color_sd14v1.pth"
     },
     {
@@ -1605,8 +1605,8 @@
         "description": "",
         "sha256": "6adc765d71cbd07567688a9320add25db9a0758eef2e3b6897cbca71e1cf9d36",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_depth_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_depth_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd14v1.pth"
     },
     {
@@ -1615,8 +1615,8 @@
         "description": "",
         "sha256": "dec4a100ed622e8818c441a28d7bcef129fcd7bde5a3cd7ecc208ddc19cfc764",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_depth_sd15v2.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_depth_sd15v2.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd15v2.pth"
     },
     {
@@ -1625,8 +1625,8 @@
         "description": "",
         "sha256": "edca0cef5eb32feba66c8e0524d996204b87a19eace640d27826d04229d17d7e",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_keypose_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_keypose_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_keypose_sd14v1.pth"
     },
     {
@@ -1635,8 +1635,8 @@
         "description": "",
         "sha256": "f8d8027cbeae188dcae57b7475243b7dec20f2620c3c0fe7778319c56bf1ec6b",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_openpose_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_openpose_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_openpose_sd14v1.pth"
     },
     {
@@ -1645,8 +1645,8 @@
         "description": "",
         "sha256": "c01a17ecd473e3e375cea152c1e4135274f7113a495be35909b497d65b87713a",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_seg_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_seg_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_seg_sd14v1.pth"
     },
     {
@@ -1655,8 +1655,8 @@
         "description": "",
         "sha256": "e006de134c9db86d1d44e6f13783e0846a78879afa3bd6f73feb3d7f6a5715b1",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_sketch_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_sketch_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd14v1.pth"
     },
     {
@@ -1665,8 +1665,8 @@
         "description": "",
         "sha256": "8757c9e8ea0689b97257dc530172325b8215aa4e97df7c91c1a8d4e7265b894c",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_sketch_sd15v2.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_sketch_sd15v2.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd15v2.pth"
     },
     {
@@ -1675,8 +1675,8 @@
         "description": "",
         "sha256": "b41febaddb32c4338272b9ad78b7d2b2584749ca5750d6b1d972766eb2fb731b",
         "size": null,
-        "comfyui-path": "models/controlnet/t2iadapter_style_sd14v1.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/t2iadapter_style_sd14v1.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_style_sd14v1.pth"
     },
     {
@@ -1685,8 +1685,8 @@
         "description": "",
         "sha256": "5a22002d1e943a5714565f852788d999b107ccb382543167b1e00a1e5c990c14",
         "size": null,
-        "comfyui-path": "models/controlnet/adapter-xl-canny.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/adapter-xl-canny.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models_XL/adapter-xl-canny.pth"
     },
     {
@@ -1695,8 +1695,8 @@
         "description": "",
         "sha256": "0a379405bb2544e82f4bc87e0ae001f38da3c3fdf7b02a85fa638c8a3d6ef71f",
         "size": null,
-        "comfyui-path": "models/controlnet/adapter-xl-openpose.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/adapter-xl-openpose.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models_XL/adapter-xl-openpose.pth"
     },
     {
@@ -1705,8 +1705,8 @@
         "description": "",
         "sha256": "336da8af97a0291fb6dd4c6421becaea148af7fc9749a4c5b6a20cdaf5b44c37",
         "size": null,
-        "comfyui-path": "models/controlnet/adapter-xl-sketch.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/controlnet/adapter-xl-sketch.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models_XL/adapter-xl-sketch.pth"
     }
 ]

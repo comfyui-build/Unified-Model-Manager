@@ -3,56 +3,56 @@
         "cache": "facebookresearch/segment-anything/sam_vit_h_4b8939.pth",
         "sha256": "a7bf3b02f3ebf1267aba913ff637d9a2d5c33d3173bb679e46d9f338c26f262e",
         "size": 2564550879,
-        "comfyui-path": "models/sams/sam_vit_h_4b8939.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/sams/sam_vit_h_4b8939.pth",
+        "sdwebui_path": "",
         "download": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth"
     },
     {
         "cache": "facebookresearch/segment-anything/sam_vit_l_0b3195.pth",
         "sha256": "3adcc4315b642a4d2101128f611684e8734c41232a17c648ed1693702a49a622",
         "size": 1249524607,
-        "comfyui-path": "models/sams/sam_vit_l_0b3195.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/sams/sam_vit_l_0b3195.pth",
+        "sdwebui_path": "",
         "download": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth"
     },
     {
         "cache": "facebookresearch/segment-anything/sam_vit_b_01ec64.pth",
         "sha256": "ec2df62732614e57411cdcf32a23ffdf28910380d03139ee0f4fcbe91eb8c912",
         "size": 375042383,
-        "comfyui-path": "models/sams/sam_vit_b_01ec64.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/sams/sam_vit_b_01ec64.pth",
+        "sdwebui_path": "",
         "download": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth"
     },
     {
         "cache": "facebookresearch/segment-anything/sam_hq_vit_b.pth",
         "sha256": "14a9d662cd6f5a9c2dba6d40ab0058d88d287e4a18fd6fdc6ad5fb1a3fdeaa57",
         "size": 379335069,
-        "comfyui-path": "models/sams/sam_hq_vit_b.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/sams/sam_hq_vit_b.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lkeab/hq-sam/resolve/main/sam_hq_vit_b.pth"
     },
     {
         "cache": "facebookresearch/segment-anything/sam_hq_vit_h.pth",
         "sha256": "a7ac14a085326d9fa6199c8c698c4f0e7280afdbb974d2c4660ec60877b45e35",
         "size": 2570940653,
-        "comfyui-path": "models/sams/sam_hq_vit_h.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/sams/sam_hq_vit_h.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lkeab/hq-sam/resolve/main/sam_hq_vit_h.pth"
     },
     {
         "cache": "facebookresearch/segment-anything/sam_hq_vit_l.pth",
         "sha256": "e1a6c385d62bf005ded91a54d5ec55c985cfc4103ef89c08d90f39f04934c343",
         "size": 1254865805,
-        "comfyui-path": "models/sams/sam_hq_vit_l.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/sams/sam_hq_vit_l.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lkeab/hq-sam/resolve/main/sam_hq_vit_l.pth"
     },
     {
         "cache": "facebookresearch/segment-anything/sam_hq_vit_tiny.pth",
         "sha256": "0f32c075ccdd870ae54db2f7630e7a0878ede5a2b06d05d6fe02c65a82fb7196",
         "size": 42526881,
-        "comfyui-path": "models/sams/sam_hq_vit_tiny.pth",
-        "sdwebui-path": "",
+        "comfyui_path": "models/sams/sam_hq_vit_tiny.pth",
+        "sdwebui_path": "",
         "download": "https://huggingface.co/lkeab/hq-sam/resolve/main/sam_hq_vit_tiny.pth"
     }
 ]

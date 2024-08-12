@@ -2,49 +2,37 @@
     {
         "type":"repo",
         "repo":"yisol/IDM-VTON",
-        "comfyui-path":["models/IDM-VTON"],
-        "git-clone":"https://huggingface.co/yisol/IDM-VTON"
+        "comfyui_path":["models/IDM-VTON"],
+        "git_clone":"https://huggingface.co/yisol/IDM-VTON"
     },
     {
         "type":"repo",
         "repo":"briaai/RMBG-1.4",
-        "comfyui-path":["models/RMBG-1.4"],
-        "git-clone":"https://huggingface.co/briaai/RMBG-1.4"
-    },
-    {
-        "type":"repo",
-        "repo":"fal/AuraSR",
-        "comfyui-path":["models/AuraSR"],
-        "git-clone":"https://huggingface.co/fal/AuraSR"
-    },
-    {
-        "type":"repo",
-        "repo":"fal/AuraSR-v2",
-        "comfyui-path":["models/AuraSR-v2"],
-        "git-clone":"https://huggingface.co/fal/AuraSR-v2"
+        "comfyui_path":["models/RMBG-1.4"],
+        "git_clone":"https://huggingface.co/briaai/RMBG-1.4"
     },
     {
         "type":"repo",
         "repo":"google-bert/bert-base-uncased",
-        "comfyui-path":["models/bert-base-uncased"],
-        "git-clone":"https://huggingface.co/google-bert/bert-base-uncased"
+        "comfyui_path":["models/bert-base-uncased"],
+        "git_clone":"https://huggingface.co/google-bert/bert-base-uncased"
     },
     {
         "type":"repo",
         "repo":"Bingsu/adetailer",
-        "comfyui-path":["models/adetailer"],
-        "git-clone":"https://huggingface.co/Bingsu/adetailer"
+        "comfyui_path":["models/adetailer"],
+        "git_clone":"https://huggingface.co/Bingsu/adetailer"
     },
     {
         "type":"repo",
         "repo":"Kijai/LivePortrait_safetensors",
-        "comfyui-path":["models/liveportrait"],
-        "git-clone":"https://huggingface.co/Kijai/LivePortrait_safetensors"
+        "comfyui_path":["models/liveportrait"],
+        "git_clone":"https://huggingface.co/Kijai/LivePortrait_safetensors"
     },
     {
         "type":"repo",
         "repo":"ZJYang/AniPortrait",
-        "comfyui-path":[],
-        "git-clone":"https://huggingface.co/ZJYang/AniPortrait"
+        "comfyui_path":[],
+        "git_clone":"https://huggingface.co/ZJYang/AniPortrait"
     }
 ]

@@ -3,80 +3,80 @@
         "cache": "vae/vae-ft-mse-840000-ema-pruned.ckpt",
         "sha256": "",
         "size": 334695179,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE/vae-ft-mse-840000-ema-pruned.ckpt",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE/vae-ft-mse-840000-ema-pruned.ckpt",
         "download": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt"
     },
     {
         "cache": "VAE/vae-ft-mse-840000-ema-pruned.safetensors",
         "sha256": "735e4c3a447a3255760d7f86845f09f937809baa529c17370d83e4c3758f3c75",
         "size": 334641190,
-        "comfyui-path": "",
-        "sdwebui-path": "",
+        "comfyui_path": "",
+        "sdwebui_path": "",
         "download": ""
     },
     {
         "cache": "vae/sd_xl_base_1.0_0.9vae.safetensors",
         "sha256": "e6bb9ea85bbf7bf6478a7c6d18b71246f22e95d41bcdd80ed40aa212c33cfeff",
         "size": 6938078334,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE/sd_xl_base_1.0_0.9vae.safetensors",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE/sd_xl_base_1.0_0.9vae.safetensors",
         "download": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors"
     },
     {
         "cache": "vae/sd_xl_base_1.0.safetensors",
         "sha256": "31e35c80fc4829d14f90153f4c74cd59c90b779f6afe05a74cd6120b893f7e5b",
         "size": 6938078334,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE/sd_xl_base_1.0.safetensors",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE/sd_xl_base_1.0.safetensors",
         "download": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     },
     {
         "cache": "vae/sdxl_vae.safetensors",
         "sha256": "63aeecb90ff7bc1c115395962d3e803571385b61938377bc7089b36e81e92e2e",
         "size": 334641164,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE/sdxl_vae.safetensors",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE/sdxl_vae.safetensors",
         "download": "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
     },
     {
         "cache": "vae/sdxl_vae_madebyollin.safetensors",
         "sha256": "235745af8d86bf4a4c1b5b4f529868b37019a10f7c0b2e79ad0abca3a22bc6e1",
         "size": 334641162,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE/sdxl_vae_madebyollin.safetensors",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE/sdxl_vae_madebyollin.safetensors",
         "download": "https://huggingface.co/madebyollin/sdxl-vae-fp16-fix/resolve/main/sdxl_vae.safetensors"
     },
     {
         "cache": "vae/animevae.pt",
         "sha256": "f921fb3f29891d2a77a6571e56b8b5052420d2884129517a333c60b1b4816cdf",
         "size": 822802803,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE/animevae.pt",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE/animevae.pt",
         "download": ""
     },
     {
         "cache": "vae-approx/model.pt",
         "sha256": "4f88c9078bb2238cdd0d8864671dd33e3f42e091e41f08903f3c15e4a54a9b39",
         "size": 213777,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE-approx/model.pt",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE-approx/model.pt",
         "download": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/download/v1.0.0-pre/model.pt"
     },
     {
         "cache": "vae-approx/vaeapprox-sd3.pt",
         "sha256": "61ea00b79a7bc60ee14a75769771ff425704798748dd35e8b02949bbc68d3471",
         "size": 233022,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE-approx/vaeapprox-sd3.pt",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE-approx/vaeapprox-sd3.pt",
         "download": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/download/v1.0.0-pre/vaeapprox-sd3.pt"
     },
     {
         "cache": "vae-approx/vaeapprox-sdxl.pt",
         "sha256": "6c8db511f910184436a613807ce06a729f4cf96bbf7977c7c6c40d5b3e4a8333",
         "size": 213777,
-        "comfyui-path": "",
-        "sdwebui-path": "VAE-approx/vaeapprox-sdxl.pt",
+        "comfyui_path": "",
+        "sdwebui_path": "VAE-approx/vaeapprox-sdxl.pt",
         "download": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/download/v1.0.0-pre/vaeapprox-sdxl.pt"
     }
 ]

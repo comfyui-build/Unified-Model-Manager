@@ -1,0 +1,34 @@
+[
+    {
+        "cache": "fal/AuraSR/config.json",
+        "sha256": "5009aca786759dc78369abc666878ec7dd99167beaada28bf473fbaf1a68ac9a",
+        "size": 222,
+        "comfyui_path": "models/aurasr/config.json",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/fal/AuraSR/resolve/main/config.json"
+    },
+    {
+        "cache": "fal/AuraSR/model.safetensors",
+        "sha256": "ff203dd1037ca14697a55f7c47129e2b11e7ef6315c2a4113d8e382a0d3fa7de",
+        "size": 2470247916,
+        "comfyui_path": "models/aurasr/model.safetensors",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/fal/AuraSR/resolve/main/model.safetensors"
+    },
+    {
+        "cache": "fal/AuraSR-v2/config.json",
+        "sha256": "5009aca786759dc78369abc666878ec7dd99167beaada28bf473fbaf1a68ac9a",
+        "size": 222,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/fal/AuraSR-v2/resolve/main/config.json"
+    },
+    {
+        "cache": "fal/AuraSR-v2/model.safetensors",
+        "sha256": "8a80b4546f3f49b9095733cb9699030409339e2f4eb0ae9c1ada14c7d21d4dde",
+        "size": 2470247916,
+        "comfyui_path": "",
+        "sdwebui_path": "",
+        "download": "https://huggingface.co/fal/AuraSR-v2/resolve/main/model.safetensors"
+    }
+]
