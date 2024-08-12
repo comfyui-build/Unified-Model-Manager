@@ -1,30 +1,30 @@
 [
     {
-        "type":"checkpoint",
-        "md5":"9f7ddfc2e6954c1f2972a4feb91565b4",
-        "category":"sd3",
-        "name":"sd3_medium.safetensors",
-        "downloads":[]
+        "type": "checkpoint",
+        "base": "SD3",
+        "sha256": "cc236278d28c8c3eccb8e21ee0a67ebed7dd6e9ce40aa9de914fa34e8282f191",
+        "name": "sd3_medium.safetensors",
+        "downloads": []
     },
     {
-        "type":"checkpoint",
-        "md5":"90d7ea3c83e070a345f1606b5f7890f3",
-        "category":"sd3",
-        "name":"sd3_medium_incl_clips.safetensors",
-        "downloads":[]
+        "type": "checkpoint",
+        "base": "SD3",
+        "sha256": "3bb7f21bc5fb450220f4eb78a2f276b15422309d5166a4bdeb8c3b763a3a0581",
+        "name": "sd3_medium_incl_clips.safetensors",
+        "downloads": []
     },
     {
-        "type":"checkpoint",
-        "md5":"d3b81fe84c1e3de1b708300da6896365",
-        "category":"sd3",
-        "name":"sd3_medium_incl_clips_t5xxlfp8.safetensors",
-        "downloads":[]
+        "type": "checkpoint",
+        "base": "SD3",
+        "sha256": "92db4295e9c9ab8401ef60566d975656a35b0bd0f6d9ce0d083725171f7b3174",
+        "name": "sd3_medium_incl_clips_t5xxlfp8.safetensors",
+        "downloads": []
     },
     {
-        "type":"checkpoint",
-        "md5":"2c4ba76a8f036bb3015c846f05e975fb",
-        "category":"sd3",
-        "name":"sd3_medium_incl_clips_t5xxlfp16.safetensors",
-        "downloads":[]
+        "type": "checkpoint",
+        "base": "SD3",
+        "sha256": "69a950c5d143ce782a7423c532c8a12b75da6a37b0e6f26a322acf4e76208912",
+        "name": "sd3_medium_incl_clips_t5xxlfp16.safetensors",
+        "downloads": []
     }
 ]
