@@ -1,16 +1,23 @@
 [
     {
-        "type":"checkpoint",
-        "md5":"e76139d06d17e36c040897573914edd4",
-        "category":"sdxl",
-        "name":"AdamMix_SDXL_doll丨玩偶盲盒_v1.1.safetensors",
-        "downloads":[]
+        "type": "checkpoint",
+        "base": "SDXL",
+        "sha256": "c8d15f4c45bc55df71394c11288e9eb0609c0f64dd301533f0d5f4e9e099af6b",
+        "name": "AdamMix_SDXL_doll丨玩偶盲盒_v1.1.safetensors",
+        "downloads": []
     },
     {
-        "type":"checkpoint",
-        "md5":"f2cf37113e54ea85d4e34972648b14c2",
-        "category":"sdxl",
-        "name":"albedobaseXL_v21.safetensors",
-        "downloads":[]
+        "type": "checkpoint",
+        "base": "SDXL",
+        "sha256": "1718b5bb2da1ef4815fee8af8a7fc2fa8ab8f467b279eded4d991ea0cce59a6d",
+        "name": "albedobaseXL_v21.safetensors",
+        "downloads": []
+    },
+    {
+        "type": "checkpoint",
+        "base": "SDXL",
+        "sha256": "585cdb4c12610382c54642f23495324e1651c3aeaf24f0334e1e78fd54cc69be",
+        "name": "amalgamationxl_v2XLightning2.safetensors",
+        "downloads": []
     }
 ]
