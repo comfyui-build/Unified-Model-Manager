@@ -1,82 +1,82 @@
 [
     {
-        "type":"file",
-        "file":"cszn/KAIR/scunet_color_real_gan.pth",
-        "md5":"e57150b9b145ad96e151cb670b6c46dc",
-        "comfyui-path":[],
-        "sdwebui-path":["models/ScuNET/ScuNET.pth"],
-        "downloads":["https://github.com/cszn/KAIR/releases/download/v1.0/scunet_color_real_gan.pth"]
+        "cache": "cszn/KAIR/scunet_color_real_gan.pth",
+        "sha256": "892c83f812c59173273b74f4f34a14ecaf57a2fdb68df056664589beb55c966e",
+        "size": 71982835,
+        "comfyui-path": "",
+        "sdwebui-path": "models/ScuNET/ScuNET.pth",
+        "download": "https://github.com/cszn/KAIR/releases/download/v1.0/scunet_color_real_gan.pth"
     },
     {
-        "type":"file",
-        "file":"cszn/KAIR/ESRGAN.pth",
-        "md5":"6caea96e18438caf70505f64e93e10b3",
-        "comfyui-path":[],
-        "sdwebui-path":["models/ESRGAN/ESRGAN_4x.pth"],
-        "downloads":["https://github.com/cszn/KAIR/releases/download/v1.0/ESRGAN.pth"]
+        "cache": "cszn/KAIR/ESRGAN.pth",
+        "sha256": "65fece06e1ccb48853242aa972bdf00ad07a7dd8938d2dcbdf4221b59f6372ce",
+        "size": 66929193,
+        "comfyui-path": "",
+        "sdwebui-path": "models/ESRGAN/ESRGAN_4x.pth",
+        "download": "https://github.com/cszn/KAIR/releases/download/v1.0/ESRGAN.pth"
     },
     {
-        "type":"file",
-        "file":"cszn/KAIR/BSRGAN.pth",
-        "md5":"71190a360e5fba1440cc6740c6e84f69",
-        "comfyui-path":[],
-        "sdwebui-path":["models/ESRGAN/BSRGAN.pth"],
-        "downloads":["https://github.com/cszn/KAIR/releases/download/v1.0/BSRGAN.pth"]
+        "cache": "cszn/KAIR/BSRGAN.pth",
+        "sha256": "5d505a0766160921e0388d76e1ddf08cb114303990f9080432bf2b1c988b1c54",
+        "size": 67046751,
+        "comfyui-path": "",
+        "sdwebui-path": "models/ESRGAN/BSRGAN.pth",
+        "download": "https://github.com/cszn/KAIR/releases/download/v1.0/BSRGAN.pth"
     },
     {
-        "type":"file",
-        "file":"cszn/KAIR/BSRGANx2.pth",
-        "md5":"3dd039bb8df320237a92aeecbd98a32f",
-        "comfyui-path":[],
-        "sdwebui-path":["models/ESRGAN/BSRGANx2.pth"],
-        "downloads":["https://github.com/cszn/KAIR/releases/download/v1.0/BSRGANx2.pth"]
+        "cache": "cszn/KAIR/BSRGANx2.pth",
+        "sha256": "614f68bcafcf123a1ea51cc75ae5741640a8b1d49dd75757ad3ad531f772c736",
+        "size": 66894171,
+        "comfyui-path": "",
+        "sdwebui-path": "models/ESRGAN/BSRGANx2.pth",
+        "download": "https://github.com/cszn/KAIR/releases/download/v1.0/BSRGANx2.pth"
     },
     {
-        "type":"file",
-        "file":"cszn/KAIR/4x-UltraSharp.pth",
-        "md5":"1a852c4132ff9b12fe91373277435392",
-        "comfyui-path":[],
-        "sdwebui-path":["models/ESRGAN/4x-UltraSharp.pth"],
-        "downloads":["https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth","https://civitai.com/models/116225/4x-ultrasharp"]
+        "cache": "cszn/KAIR/4x-UltraSharp.pth",
+        "sha256": "a5812231fc936b42af08a5edba784195495d303d5b3248c24489ef0c4021fe01",
+        "size": 66961958,
+        "comfyui-path": "",
+        "sdwebui-path": "models/ESRGAN/4x-UltraSharp.pth",
+        "download": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth"
     },
     {
-        "type":"file",
-        "file":"JingyunLiang/SwinIR/003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN.pth",
-        "md5":"93799b7c8b8419b406f463209b166e0d",
-        "comfyui-path":[],
-        "sdwebui-path":["models/SwinIR/SwinIR_4x.pth"],
-        "downloads":["https://github.com/JingyunLiang/SwinIR/releases/download/v0.0/003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN.pth"]
+        "cache": "JingyunLiang/SwinIR/003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN.pth",
+        "sha256": "99adfa91350a84c99e946c1eb3d8fce34bc28f57d807b09dc8fe40a316328c0a",
+        "size": 142473939,
+        "comfyui-path": "",
+        "sdwebui-path": "models/SwinIR/SwinIR_4x.pth",
+        "download": "https://github.com/JingyunLiang/SwinIR/releases/download/v0.0/003_realSR_BSRGAN_DFOWMFC_s64w8_SwinIR-L_x4_GAN.pth"
     },
     {
-        "type":"file",
-        "file":"xinntao/Real-ESRGAN/realesr-general-x4v3.pth",
-        "md5":"91a7644643c884ee00737db24e478156",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-general-x4v3.pth"]
+        "cache": "xinntao/Real-ESRGAN/realesr-general-x4v3.pth",
+        "sha256": "8dc7edb9ac80ccdc30c3a5dca6616509367f05fbc184ad95b731f05bece96292",
+        "size": 4885111,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-general-x4v3.pth"
     },
     {
-        "type":"file",
-        "file":"xinntao/Real-ESRGAN/realesr-general-wdn-x4v3.pth",
-        "md5":"4dc198a34475fa0df73fe82bcf6e5948",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-general-wdn-x4v3.pth"]
+        "cache": "xinntao/Real-ESRGAN/realesr-general-wdn-x4v3.pth",
+        "sha256": "1641f8c4464b9f097c9fdda5589273713f67cf59f3d909e0bd688f0cee269dca",
+        "size": 4885111,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-general-wdn-x4v3.pth"
     },
     {
-        "type":"file",
-        "file":"xinntao/Real-ESRGAN/RealESRGAN_x4plus_anime_6B.pth",
-        "md5":"d58ce384064ec1591c2ea7b79dbf47ba",
-        "comfyui-path":[],
-        "sdwebui-path":["models/RealESRGAN/RealESRGAN_x4plus_anime_6B.pth"],
-        "downloads":["https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth"]
-    },    
+        "cache": "xinntao/Real-ESRGAN/RealESRGAN_x4plus_anime_6B.pth",
+        "sha256": "f872d837d3c90ed2e05227bed711af5671a6fd1c9f7d7e91c911a61f155e99da",
+        "size": 17938799,
+        "comfyui-path": "",
+        "sdwebui-path": "models/RealESRGAN/RealESRGAN_x4plus_anime_6B.pth",
+        "download": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth"
+    },
     {
-        "type":"file",
-        "file":"xinntao/Real-ESRGAN/RealESRGAN_x4plus.pth",
-        "md5":"99ec365d4afad750833258a1a24f44ca",
-        "comfyui-path":[],
-        "sdwebui-path":["models/RealESRGAN/RealESRGAN_x4plus.pth"],
-        "downloads":["https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth"]
+        "cache": "xinntao/Real-ESRGAN/RealESRGAN_x4plus.pth",
+        "sha256": "4fa0d38905f75ac06eb49a7951b426670021be3018265fd191d2125df9d682f1",
+        "size": 67040989,
+        "comfyui-path": "",
+        "sdwebui-path": "models/RealESRGAN/RealESRGAN_x4plus.pth",
+        "download": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth"
     }
 ]

@@ -1,10 +1,18 @@
-[
+[   
     {
-        "type":"file",
-        "file":"TencentARC/GFPGAN/GFPGANv1.4.pth",
-        "md5":"94d735072630ab734561130a47bc44f8",
-        "comfyui-path":[],
-        "sdwebui-path":["models/GFPGAN/GFPGANv1.4.pth"],
-        "downloads":["https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth"]
+        "cache": "TencentARC/GFPGAN/GFPGANv1.3.pth",
+        "sha256": "c953a88f2727c85c3d9ae72e2bd4846bbaf59fe6972ad94130e23e7017524a70",
+        "size": 348632874,
+        "comfyui-path": "",
+        "sdwebui-path": "models/GFPGAN/GFPGANv1.3.pth",
+        "download": "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth"
+    },
+    {
+        "cache": "TencentARC/GFPGAN/GFPGANv1.4.pth",
+        "sha256": "e2cd4703ab14f4d01fd1383a8a8b266f9a5833dacee8e6a79d3bf21a1b6be5ad",
+        "size": 348632874,
+        "comfyui-path": "",
+        "sdwebui-path": "models/GFPGAN/GFPGANv1.4.pth",
+        "download": "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth"
     }
 ]

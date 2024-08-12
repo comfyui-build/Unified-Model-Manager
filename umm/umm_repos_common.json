@@ -1,12 +1,6 @@
 [
     {
         "type":"repo",
-        "repo":"ViperYX/BiRefNet",
-        "comfyui-path":["models/BiRefNet"],
-        "git-clone":"https://huggingface.co/ViperYX/BiRefNet"
-    },
-    {
-        "type":"repo",
         "repo":"yisol/IDM-VTON",
         "comfyui-path":["models/IDM-VTON"],
         "git-clone":"https://huggingface.co/yisol/IDM-VTON"

@@ -4,8 +4,13 @@
     "links":[
         {
             "type":"file",
-            "umm_src":"files/deepinsight/insightface/inswapper_128.onnx",
+            "umm_src":"cache/deepinsight/insightface/inswapper_128.onnx",
             "sdwebui_dst":"models/faceswaplab/inswapper_128.onnx"
+        },
+        {
+            "type":"file",
+            "umm_src":"cache/deepinsight/insightface/inswapper_128_fp16.onnx",
+            "sdwebui_dst":"models/faceswaplab/inswapper_128_fp16.onnx"
         }
     ]
 }

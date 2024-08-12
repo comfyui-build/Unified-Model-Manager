@@ -1,58 +1,58 @@
 [
     {
-        "type":"file",
-        "file":"hustvl/ViTMatte/dino_deitsmall16_pretrain.pth",
-        "md5":"cf0f226eb54c15968c3d10cda24f5558",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://dl.fbaipublicfiles.com/dino/dino_deitsmall16_pretrain/dino_deitsmall16_pretrain.pth"]
+        "cache": "hustvl/ViTMatte/dino_deitsmall16_pretrain.pth",
+        "sha256": "1566d50496f27f52f07fea6094fa29b2fdd6fae89da65bdd3ebc3b24ef6b7eb7",
+        "size": 86710517,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://dl.fbaipublicfiles.com/dino/dino_deitsmall16_pretrain/dino_deitsmall16_pretrain.pth"
     },
     {
-        "type":"file",
-        "file":"hustvl/ViTMatte/",
-        "md5":"230cd55a58a3273221a39401ff6cb904",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://dl.fbaipublicfiles.com/dino/dino_deitsmall8_pretrain/dino_deitsmall8_pretrain.pth"]
+        "cache": "hustvl/ViTMatte/dino_deitsmall8_pretrain.pth",
+        "sha256": "55c8b267f479b614ec20858947ce361ba804846c193e20be74263a096bb6d75e",
+        "size": 86728949,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://dl.fbaipublicfiles.com/dino/dino_deitsmall8_pretrain/dino_deitsmall8_pretrain.pth"
     },
     {
-        "type":"file",
-        "file":"hustvl/ViTMatte/",
-        "md5":"552daf80332dbde16bba2a52c6508b77",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://dl.fbaipublicfiles.com/dino/dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth"]
+        "cache": "hustvl/ViTMatte/dino_vitbase16_pretrain.pth",
+        "sha256": "bf34ad0f424b9029b593e8dc3ed553bf26e88bcba0d32bf3e62a6209cb64c85e",
+        "size": 343242485,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://dl.fbaipublicfiles.com/dino/dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth"
     },
     {
-        "type":"file",
-        "file":"hustvl/ViTMatte/",
-        "md5":"5565501c47db67a0cb476f663b661eed",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://dl.fbaipublicfiles.com/dino/dino_vitbase8_pretrain/dino_vitbase8_pretrain.pth"]
+        "cache": "hustvl/ViTMatte/dino_vitbase8_pretrain.pth",
+        "sha256": "575f0efc4838938314afa09897a62ed2b87919928b5edcd133abb907328995eb",
+        "size": 343279349,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://dl.fbaipublicfiles.com/dino/dino_vitbase8_pretrain/dino_vitbase8_pretrain.pth"
     },
     {
-        "type":"file",
-        "file":"hustvl/ViTMatte/",
-        "md5":"8cad7c8458a98d92977cf31e98c74644",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_base.pth"]
+        "cache": "hustvl/ViTMatte/mae_pretrain_vit_base.pth",
+        "sha256": "aec5f0b68e5f3193a00b07bc65a37440db549c15b36b8bea242606cc40c4bc5d",
+        "size": 343249461,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_base.pth"
     },
     {
-        "type":"file",
-        "file":"hustvl/ViTMatte/",
-        "md5":"9bdbb074fc64d2ceea642b5894ca6de3",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_large.pth"]
+        "cache": "hustvl/ViTMatte/",
+        "sha256": "d2ceff4892889d0c0f5418fa8bcb02e6a25a37fc3bdc0619c3cacd7d3d05c39f",
+        "size": 1213314565,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_large.pth"
     },
     {
-        "type":"file",
-        "file":"hustvl/ViTMatte/",
-        "md5":"b8b06e2f606e2869690bce15f1d6910c",
-        "comfyui-path":[],
-        "sdwebui-path":[],
-        "downloads":["https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_huge.pth"]
+        "cache": "hustvl/ViTMatte/mae_pretrain_vit_huge.pt",
+        "sha256": "2d0099a83c73e2b006095c90755458e7c9fd87513b720290b86c623881db42ca",
+        "size": 2523202725,
+        "comfyui-path": "",
+        "sdwebui-path": "",
+        "download": "https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_huge.pt"
     }
 ]
