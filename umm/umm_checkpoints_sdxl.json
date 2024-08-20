@@ -19,5 +19,12 @@
         "sha256": "585cdb4c12610382c54642f23495324e1651c3aeaf24f0334e1e78fd54cc69be",
         "name": "amalgamationxl_v2XLightning2.safetensors",
         "downloads": []
+    },
+    {
+        "type": "checkpoint",
+        "base": "SDXL",
+        "sha256": "D86CE303BC5C3E04C5D97B225C7D0C96ECBCB581D2A70138BB6CB2612DEE58D5",
+        "name": "photoRealisticXL_photoRealisticXLII.safetensors",
+        "downloads": ['https://civitai.com/api/download/models/443801?type=Model&format=SafeTensor&size=full&fp=fp16']
     }
 ]
